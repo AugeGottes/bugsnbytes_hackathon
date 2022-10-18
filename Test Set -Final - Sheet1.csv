@@ -1,0 +1,1201 @@
+make,model,variant,cc,seating_capacity,fuel_type,local_code
+Mahindra & Mahindra,Bolero,DI 8Str,2523,8,Diesel,512
+Jaguar,XF,R V8,5000,5,Petrol,459
+Hyundai,Xcent,1.2 Prime T CRDI,1186,5,Diesel,5557
+Maruti Suzuki,Celerio,ZXI AT Optional,998,5,Petrol,3324
+Skoda,Kushaq,1.5 Style TSI MT,1498,5,Petrol,5748
+Hyundai,I20,Sportz + VTVT,1197,5,Petrol,4517
+Mahindra & Mahindra,KUV 100,K6 D 5 STR,1198,6,Diesel,3412
+Nissan,Evalia,XL,1461,7,Diesel,1679
+BMW,6-Series,650I Convertible,4799,4,Petrol,36
+Mahindra & Mahindra,E2o,T0 - Electric (Battery),15,4,Battery,3690
+Audi,Q2,Standard 40 TFSI quattro,1984,5,Petrol,5408
+Honda,Brio,V MT,1198,5,Petrol,1389
+Skoda,Rapid,Ambition Plus 1.6 MPI AT,1598,5,Petrol,5347
+Hyundai,Xcent,1.2 VTVT S (O) Petrol,1197,5,Petrol,3553
+Land Rover,Range Rover,Supercharged V8 Petrol,4197,7,Petrol,478
+Hyundai,Santro,GLS,1086,5,Petrol,369
+Chevrolet,Aveo,1.6 LT ABS,1598,5,Petrol,91
+Maruti Suzuki,Wagon R,1.0 Lxi,998,5,Petrol,674
+Mercedes-Benz,C-Class,C 220 CDI Style,2143,5,Diesel,2664
+Audi,A4,40 TFSI Premium Plus,1984,5,Petrol,6022
+Hyundai,Grand I10,Magna 1.2 Kappa VTVT,1197,5,Petrol,1943
+BMW,i8,1.5 Petrol,1499,4,Petrol,2638
+Maruti Suzuki,Alto,Vxi,796,5,Petrol,597
+Hyundai,New Santro,1.1 Magna MT - CNG,1086,5,CNG (Inbuilt),4270
+Bentley,Azure,Convertible,6761,5,Petrol,27
+Toyota,Camry,W2 (AT),2362,5,Petrol,1157
+Toyota,Yaris,J CVT,1496,5,Petrol,5263
+Maserati,GranCabrio,4.7 V8,4691,4,Petrol,3985
+Hyundai,Verna Transform,1.5 SX AT CRDi,1493,5,Diesel,345
+Hyundai,Tucson,2WD AT GL Petrol,1999,5,Petrol,3713
+Volkswagen,Polo,1.6L Highline (P),1598,5,Petrol,1195
+Premier,Padmini,Std,1089,5,Petrol,1519
+Premier,Rio,1.3 LX,1248,5,Diesel,1766
+Chevrolet,Aveo,1.4 CNG,1399,5,CNG (Inbuilt),95
+Maruti Suzuki,Vitara Brezza,ZDI Plus,1248,5,Diesel,3447
+Toyota,Innova Crysta,2.4 VX 7 STR,2393,7,Diesel,3728
+Hyundai,Venue - Petrol,1.0 Turbo GDI IMT S(O),998,5,Petrol,6289
+Kia Motors,Carnival,Prestige 7,2199,7,Diesel,4941
+Honda,Amaze,VX MT Petrol Exclusive Edition,1199,5,Petrol,4614
+Toyota,Glanza,G AMT,1197,5,Petrol,6253
+Nissan,Kicks - Petrol,1.3 Turbo XV Premium (O),1330,5,Petrol,5257
+Maruti Suzuki,New Ertiga - Petrol,VXI,1462,7,Petrol,4287
+Maruti Suzuki,Zen Estilo,1.1 LX,1061,5,Petrol,1214
+Hyundai,Verna,1.6 VTVT S,1591,5,Petrol,4726
+Honda,City Zx,Exi,1497,5,Petrol,296
+Mahindra & Mahindra,XUV 500,1.99 R FWD W6,1997,7,Diesel,5960
+Maruti Suzuki,Vitara Brezza,VDI,1248,5,Diesel,3444
+Jeep,Compass-Diesel,Longitude 2.0 Diesel,1956,5,Diesel,3962
+Tata Motors,Sumo,Victa Gx Tc 8-Seater,1948,8,Diesel,1015
+Porsche,Cayenne,Turbo,4806,5,Petrol,1989
+Mahindra & Mahindra,Bolero,DI AC BSIII,2523,7,Diesel,1977
+Ford,Endeavour,Trend 2.2 4x2 AT,2198,7,Diesel,3434
+Chevrolet,Optra Magnum,2.0 Max TCDi,1991,5,Diesel,71
+Tata Motors,Nano,LX,624,4,Petrol,868
+Volkswagen,Vento,1.6 CR,1598,5,Diesel,3474
+Hyundai,Creta,1.6 VTVT AT SX Plus,1591,5,Petrol,4091
+Toyota,Vellfire,X LOUNGE,2500,7,Petrol,4660
+Tata Motors,Movus,LX,2179,7,Diesel,2399
+Toyota,Fortuner,2W 2.8L MT,2755,7,Diesel,3978
+Ford,Figo,1.4 Duratorq Diesel Zxi,1399,5,Diesel,241
+Hyundai,Santro,DX,999,5,Petrol,377
+Tata Motors,Hexa,XMA 4*2 7STR,2179,7,Diesel,3778
+Mahindra Renault,Logan,Edge 1.6 GLS,1598,5,Petrol,567
+Skoda,Laura,2.0 TDI AT L & K,1968,5,Diesel,840
+Hyundai,Venue - Diesel,1.4 CRDi MT SX,1396,5,Diesel,4430
+Hyundai,Getz Prime,1.5 GVS CRDi,1493,5,Diesel,421
+Maruti Suzuki,Sx4,Vxi,1586,5,Petrol,664
+Hyundai,Elantra,GT,1795,5,Petrol,316
+Tata Motors,Nexon Diesel,1.5 XZ Plus S,1497,5,Diesel,5929
+Mahindra & Mahindra,Scorpio-N,Z4 Diesel,2184,7,Diesel,6312
+Toyota,Corolla Altis,Gl Diesel,1364,5,Diesel,1064
+Maruti Suzuki,Ciaz,VDi +,1248,5,Diesel,2555
+Maruti Suzuki,S-Presso,VXI +,998,5,Petrol,4610
+Hyundai,Creta,1.6 CRDI SX(O),1582,5,Diesel,4385
+Hyundai,Verna,1.6 VTVT SX (O) AT,1591,5,Petrol,3992
+Ford,Figo,1.5D Titanium MT,1498,5,Diesel,3275
+Tata Motors,Indigo Manza,Aqua Safire,1368,5,Petrol,957
+Tata Motors,Indica eV2,LX,1396,5,Diesel,1385
+Skoda,Octavia,1.9 TDI,1896,5,Diesel,854
+Volvo,S 80,V8 AWD,4414,5,Petrol,1186
+Honda,Accord,2.4 AT,2354,5,Petrol,277
+Porsche,911,Carrera S,3800,2,Petrol,789
+Tata Motors,Indica V2 Xeta,GLG - BS III,1396,5,Petrol,894
+Mahindra & Mahindra,Verito Vibe,(CS) 1.5 D4,1461,5,Diesel,1955
+Maruti Suzuki,Ertiga,Vxi ABS,1373,7,Petrol,2627
+Honda,Amaze,1.2 S I-VTEC O,1199,5,Petrol,5107
+Tata Motors,Indica Vista,1.4 GLX Safire 90,1368,5,Petrol,5921
+Tata Motors,Altroz,XT Luxe,1199,5,Petrol,4901
+Toyota,Innova Crysta,Leadership Editon,2393,7,Diesel,5215
+Volkswagen,Ameo,HIGHLINE 1.0L (P),999,5,Petrol,5198
+Daewoo Motors,Matiz,SS,796,5,Petrol,154
+Tata Motors,Nexon Diesel,XZ Plus Dual Tone End..,1497,5,Diesel,4055
+Maruti Suzuki,Celerio,ZXI +,998,5,Petrol,5629
+Mahindra & Mahindra,Thar,LX 4-STR Hard Top Diesel MT,2184,4,Diesel,5327
+Hyundai,I10,Magna,1086,5,Petrol,427
+Hyundai,Elantra,2.0 SX (O) AT,1999,5,Petrol,3625
+Maruti Suzuki,New Dzire,Zxi CNG,1197,5,CNG (Inbuilt),6215
+Fiat,Punto Pure,1.3 Diesel,1248,5,Diesel,3748
+Tata Motors,Hexa,XT 4*4 6 STR,2179,6,Diesel,4359
+Hyundai,I10,ERA (M),1197,5,Petrol,2248
+Volkswagen,T-Roc,1.5 TSI,1498,5,Petrol,4986
+Tata Motors,Zest,XMA Diesel,1248,5,Diesel,2502
+Porsche,Cayenne,S Hybrid,2995,5,Petrol,2456
+Datsun,GO Plus,T Option,1198,7,Petrol,3108
+Mercedes-Benz,GLS,400 D 4Matic,2925,7,Diesel,5272
+Hyundai,Grand I10,Magna U2 1.2 CRDi,1186,5,Diesel,3809
+Mahindra & Mahindra,Verito Vibe,(CS) 1.5 D2,1461,5,Diesel,1954
+Nissan,Teana,230 JM,2349,5,Petrol,774
+Maruti Suzuki,S-Presso,VXI (O) AGS,998,5,Petrol,4612
+Maruti Suzuki,Wagon R,1.1 Lxi - BS III,1062,5,Petrol,665
+Bentley,Bentayga,W12,5950,5,Petrol,3523
+Porsche,Cayenne,Platinum Edition Petrol,3598,5,Petrol,3750
+Skoda,Rapid,Active 1.6 TDI CR MT,1598,5,Diesel,1430
+Maruti Suzuki,Swift,ZDI +,1248,5,Diesel,4507
+Hyundai,Xcent,VTVT S BSIV,1197,5,Petrol,2406
+Maruti Suzuki,Esteem,Lx BS-2,1298,5,Petrol,626
+Audi,A5,Cabriolet 2.0 TDI quattro,1968,5,Diesel,4945
+Maruti Suzuki,Ciaz,Zxi,1373,5,Petrol,2553
+Volkswagen,Polo,1.2L Highline Diesel - 1198 CC,1198,5,Diesel,3478
+BMW,X1,sDrive20d,1995,5,Diesel,1265
+Tata Motors,Indica Vista,Le Quadrajet,1248,5,Diesel,913
+Volvo,V 40,D3 R - Design,1984,5,Diesel,2758
+Toyota,Innova,2.5 V - 7 Seater,2494,7,Diesel,1091
+Hyundai,Xcent,SX CRDi,1186,5,Diesel,3914
+Jeep,Compass-Diesel,2.0 Multijet 2 Limited 4*2,1956,5,Diesel,4026
+Honda,CR-V,Rvsi AT,2354,5,Petrol,313
+Renault,Pulse,Petrol RxZ,1198,5,Petrol,2511
+Hyundai,Grand I10,Sportz U2 1.2 CRDi,1186,5,Diesel,3810
+Mini,Contryman,Cooper SD,1995,5,Diesel,4211
+Fiat,Palio,Adventure 1.6,1596,5,Petrol,4695
+Maruti Suzuki,Versa,Dx 5 Seater - BS III,1298,5,Petrol,627
+Maruti Suzuki,New Wagon R,1.2 Zxi AGS,1197,5,Petrol,4319
+Maruti Suzuki,Swift Dzire,Tour S CNG,1197,5,CNG (Inbuilt),5353
+Tata Motors,Sumo,EX + 1948 CC,1948,7,Diesel,2241
+Volkswagen,Vento,Trendline Petrol,1598,5,Petrol,1181
+Mahindra & Mahindra,Xylo,H8 8Str,2179,8,Diesel,1854
+Mahindra & Mahindra,Scorpio,S6 8 Seater,2179,8,Diesel,2539
+Ferrari,F 430,Spider,4308,2,Petrol,157
+Maruti Suzuki,Ciaz,S Petrol,1373,5,Petrol,3974
+Volkswagen,Virtus,1.0 Topline TSI AT,999,5,Petrol,6279
+Tata Motors,Indigo Cs,LX TDI,1405,5,Diesel,948
+Maruti Suzuki,Zen Estilo,1.1 CNG,1061,5,CNG (Inbuilt),5582
+Fiat,Grande Punto,1.3 Emotion,1248,5,Diesel,187
+Mercedes-Benz,C-Class,C 230,2496,5,Petrol,1485
+Skoda,Superb,Elegance 2.0 TDI CR,1968,5,Diesel,1754
+Hyundai,Santro Xing,Non-Ac,1086,5,Petrol,385
+Skoda,Rapid,Ambition Plus 1.5 TDI CR,1498,5,Diesel,2563
+Skoda,Fabia,Scout 1.2 TDI,1199,5,Diesel,1823
+Land Rover,Range Rover,Evoque Pure,2179,5,Diesel,3339
+Chevrolet,Tavera,NEO LS B3 10 STR BS III,2499,10,Diesel,5022
+Mahindra & Mahindra,Scorpio,VLX BS IV 4WD HE,2179,8,Diesel,1360
+BMW,2-Series,Gran Coupe Black Shadow Edition,1995,5,Diesel,5438
+Maruti Suzuki,Vitara Brezza,LXI,1462,5,Petrol,4955
+Toyota,Yaris,V CVT,1496,5,Petrol,4136
+Skoda,Laura,1.9 TDI AT Elegance,1896,5,Diesel,828
+Maruti Suzuki,XL6,Alpha Petrol,1462,6,Petrol,4529
+Audi,A6,3.0 TFSI Quattro,2995,5,Petrol,16
+Tata Motors,Indigo,GVS- BS III,1396,5,Petrol,934
+Willys India Limited,Jeep,5 Seater,2200,5,Diesel,4603
+Skoda,Laura,Ambition 2.0 TDI CR AT,1968,5,Diesel,4830
+Maruti Suzuki,Wagon R,Stingray Lxi,998,5,Petrol,2382
+Fiat,Petra,1.6 ELX PS,1596,5,Petrol,1218
+Chevrolet,Sail U-Va,1.2,1199,5,Petrol,1720
+Maruti Suzuki,Ritz,Genus VXI,1197,5,Petrol,4285
+Mahindra & Mahindra,Xylo,E4 8Str,2498,8,Diesel,553
+Jaguar,XF,Prestige Petrol,1999,5,Petrol,3664
+Tata Motors,Harrier,XZ + Dark Edition,1956,5,Diesel,5680
+Mercedes-Benz,C-Class,220 CDI Executive,2148,5,Diesel,1489
+Tata Motors,Nexon Petrol,XZA Plus Dual Tone,1199,5,Petrol,4208
+Maruti Suzuki,Swift,VDI Optional,1248,5,Diesel,3335
+Jeep,Compass-Diesel,Limited 2.0 Diesel 4x4,1956,5,Diesel,3966
+Kia Motors,Seltos - Diesel,Anniversary Edition,1493,5,Diesel,5372
+Honda,Jazz,1.2 VX MT (i-VTEC),1198,5,Petrol,3215
+Honda,Mobilio,S i-VTEC,1498,7,Diesel,2461
+Skoda,Laura,L & K 1.9 PD AT,1896,5,Diesel,839
+Tata Motors,Safari,4X4 EX DICOR - BS III,2956,7,Diesel,990
+Maruti Suzuki,Vitara Brezza,VDI Option,1248,5,Diesel,3445
+Volvo,Xc 90,D5 Inscription,1969,7,Diesel,2718
+Mahindra & Mahindra,Thar,AX 4-STR Convertible Diesel MT,2184,4,Diesel,5324
+Mercedes-Benz,C-Class,C220d Progressive,1950,5,Diesel,5414
+Maruti Suzuki,Swift,Vxi (ABS),1298,5,Petrol,646
+Renault,Fluence,LZ8TOT 1997 CC,1997,5,Petrol,2683
+Tata Motors,Tiago,Revotorq XM (O),1047,5,Diesel,3499
+Honda,CR-V,Rvi MT,2354,5,Petrol,312
+Land Rover,Range Rover,Velar 2.0L R Dynamic SE Petrol,1999,5,Petrol,4101
+Mercedes-Benz,CLA-Class,200 d,2143,5,Diesel,4330
+Mahindra & Mahindra,XUV 300 - Petrol,W4,1197,5,Petrol,4337
+Ford,EcoSport,TITANIUM + MT SPORTS DIESEL,1498,5,Diesel,5087
+Mercedes-Benz,C-Class,C 200 CGI,1991,5,Petrol,2581
+Honda,Jazz,S Petrol,1198,5,Petrol,4709
+Tata Motors,Altroz - Diesel,XZ Urban,1497,5,Diesel,4915
+Chevrolet,Beat,1.2 PS,1199,5,Petrol,101
+Toyota,Etios,Vx - D,1364,5,Diesel,1371
+Tata Motors,Sumo,Gold EX - 9 Seater,2956,9,Diesel,1538
+Toyota,Glanza,E MT,1197,5,Petrol,6234
+Mahindra & Mahindra,Bolero,Plus 9Str,2524,9,Diesel,1578
+Ford,Ikon,1.8 Zxi,1753,5,Diesel,230
+Fiat,Palio,Adventure 1.9 D,1910,5,Diesel,4694
+Honda,Civic,1.8 S MT,1799,5,Petrol,5098
+Audi,Q3,1.4 TFSI,1395,5,Petrol,3860
+Porsche,Panamera,4,3605,4,Petrol,2200
+Honda,Jazz,1.2 ZX MT,1199,5,Petrol,5407
+BMW,X5,Xdrive 30d DPE 7 Seater,2993,7,Diesel,3371
+Honda,CR-V,1.6 AWD 9AT,1597,7,Diesel,4272
+Honda,Amaze,1.5 SX MT i-DTEC,1498,5,Diesel,2454
+Maruti Suzuki,Celerio,VXi CNG,998,5,CNG (Inbuilt),2418
+Porsche,Macan,Turbo,3604,5,Petrol,4001
+Skoda,Rapid,Style Plus 1.6 MPI MT Plus,1598,5,Petrol,3356
+Audi,A3,40TFSI Premium Plus,1798,5,Petrol,2478
+Tata Motors,Indica V2,DLS - BS III,1405,5,Diesel,874
+Volvo,S 80,3.2,3192,5,Petrol,1187
+Daewoo Motors,Matiz,SG,796,5,Petrol,152
+Tata Motors,Hexa,XTA 4*2 6 STR,2179,6,Diesel,4358
+Maruti Suzuki,Ertiga,Tour M Petrol,1462,7,Petrol,5479
+Tata Motors,Indica V2 Xeta,GLS LPG,1193,5,LPG (Inbuilt),888
+Maruti Suzuki,Alto,800 VXI (O),796,5,Petrol,5332
+Chevrolet,Tavera,Neo 3 Max - 9 STR BS III,2499,9,Diesel,3566
+Honda,CR-V,2.4L 4WD AVN,2354,5,Petrol,2059
+Maruti Suzuki,800,Standard,796,4,Petrol,2640
+Maruti Suzuki,800,MPI BSIII AC,796,5,Petrol,2447
+Hyundai,Creta,1.6 VTVT L,1591,5,Petrol,3159
+Chevrolet,Aveo U-Va,1.2 LS,1150,5,Petrol,97
+Kia Motors,Carens - Diesel,1.5 Luxury Plus MT,1493,7,Diesel,6184
+Volvo,Xc 60,D5 Inscription,1969,5,Diesel,4105
+Fiat,Punto,DYNAMIC 1.4,1368,5,Petrol,5058
+Honda,WRV,VX MT Diesel,1498,5,Diesel,3847
+Mahindra & Mahindra,Marazzo,M6 Plus 8 Seater,1497,8,Diesel,5790
+Fiat,Punto Evo,Dynamic 1.2,1172,5,Petrol,2469
+Ford,Endeavour,XLT 4X2,2499,7,Diesel,220
+Tata Motors,Indigo,XL Classic Dicor,1396,5,Diesel,5760
+Maruti Suzuki,Wagon R,Ax 4 Seater,1061,4,Petrol,3390
+Daewoo Motors,Matiz,SA,796,5,Petrol,149
+Toyota,Camry,W1 (MT),2362,5,Petrol,1156
+Tata Motors,Nexon Diesel,XM,1497,5,Diesel,4022
+Bajaj Auto Ltd,QUTE,Petrol,217,4,Petrol,5240
+Toyota,Innova,2.0 VX - 8 Seater,1998,8,Petrol,1075
+Tata Motors,Punch,Pure Rhythm Pack,1199,5,Petrol,6059
+Kia Motors,Seltos - Diesel,1.5 GTX+ AT,1493,5,Diesel,4922
+Fiat,Avventura,Dynamic Multijet 1.3,1248,5,Diesel,2568
+Kia Motors,Seltos - Diesel,1.5 HTX+ AT,1493,5,Diesel,4564
+Tata Motors,Indigo,GLE - BS III,1405,5,Petrol,923
+Audi,S5,Sportback,2995,4,Petrol,3244
+Honda,BR-V,VX Diesel,1498,7,Diesel,3544
+Nissan,Evalia,XV,1461,7,Diesel,1680
+Audi,A6,2.8 FSI,2773,5,Petrol,13
+Skoda,Superb,Style 1.8 TSI MT,1798,5,Petrol,3455
+Hyundai,Xcent,E Plus,1197,5,Petrol,3906
+Toyota,Innova,2.5 EV PS - 7-Seater,2494,7,Diesel,1081
+Skoda,Yeti,Ambition 2.0 TDI CR 4*2,1968,5,Diesel,1611
+Mercedes-Benz,GLS,350 d,2987,7,Diesel,3558
+Hyundai,I20,1.0 Sportz iMT DT,998,5,Petrol,5384
+Hyundai,Aura,1.2 MT KAPPA SX,1197,5,Petrol,4924
+Rolls-Royce,Phantom,Sedan,6749,5,Petrol,813
+Honda,City,i VTEC S,1497,5,Petrol,2300
+Hyundai,Venue - Diesel,1.4 CRDi MT SX(O),1396,5,Diesel,4432
+Land Rover,Discovery,3.0 S DIESEL,2993,7,Diesel,5145
+Tata Motors,Harrier,XM,1956,5,Diesel,4327
+Maruti Suzuki,Swift Dzire,LDi Tour,1248,5,Diesel,1646
+Tata Motors,Safari,Storme VX Varicor 400,2179,7,Diesel,3341
+Volvo,Xc 90,T8 Hydrid Excellence,1969,4,Petrol,3682
+Maruti Suzuki,Ciaz,Zeta Diesel,1248,5,Diesel,4511
+Renault,KWID,1.0 Neotech,999,5,Petrol,5374
+Honda,Jazz,Active,1198,5,Petrol,280
+Honda,Amaze,1.5 V i-DTEC,1498,5,Diesel,4218
+Mahindra & Mahindra,XUV 500,W11 (O),2179,7,Diesel,4162
+Mahindra & Mahindra,Scorpio,1.9 S8,1997,7,Diesel,5446
+Mahindra & Mahindra,Bolero,Plus Ac Ps,2523,7,Diesel,488
+Honda,Brio,EX MT,1198,5,Petrol,2052
+Toyota,Innova,2.0 G,1998,7,Petrol,1099
+Hyundai,Creta,1.5 MPi IVT SX,1497,5,Petrol,4975
+Maruti Suzuki,S-Cross,DDiS 200 Zeta,1248,5,Diesel,3145
+Ford,Fiesta,1.6 Exi,1596,5,Petrol,196
+Maruti Suzuki,Swift,VDI BS III,1298,5,Diesel,2287
+Honda,City Zx,1.5  G,1497,5,Petrol,5302
+Volkswagen,Polo,Trendline 1.5L (D),1498,5,Diesel,2450
+Jaguar,XK,R 5 Coupe,5000,4,Petrol,3589
+Tata Motors,Indigo Marina,GLX - BS III,1396,5,Petrol,965
+Maruti Suzuki,Celerio X,VXI Optional AMT,998,5,Petrol,4110
+Mahindra & Mahindra,Bolero,VLX 2523 CC,2523,7,Diesel,3238
+Hyundai,Venue - Diesel,1.5 CRDi MT SX(O) DT,1493,5,Diesel,6286
+Mahindra & Mahindra,Bolero,LX 2523 CC,2523,7,Diesel,2318
+Maruti Suzuki,Zen,D,1527,5,Diesel,1343
+Opel,Opel Astra,1.4 16V Enjoy,1364,5,Petrol,1249
+Audi,A6,45 TFSI Technology,1984,5,Petrol,4649
+Opel,Opel Vectra,2.2 Comfort,2198,5,Petrol,1245
+Volkswagen,Jetta,Trendline 1.4 TSI,1390,5,Petrol,1613
+Tata Motors,Zest,XM Petrol,1193,5,Petrol,2495
+Mercedes-Benz,E-Class,E 400 Cabriolet,2996,4,Petrol,2673
+Jaguar,XJ,3.0L,2993,4,Diesel,1378
+Porsche,Cayenne,GTS,4806,5,Petrol,3168
+Nissan,X-Trail,LE,1995,5,Diesel,771
+Ford,EcoSport,1.5 (D) Titanium Plus MT,1498,5,Diesel,5462
+Jaguar,F-Type,V6 S,2995,2,Petrol,1935
+Honda,Accord,Hybrid,1993,5,Petrol,3694
+Maruti Suzuki,Baleno,1.2 Sigma,1197,5,Petrol,3271
+Chevrolet,Enjoy,1.3 LS 8 STR,1248,8,Diesel,5017
+Chevrolet,Captiva,2.0 LT MT,1991,7,Diesel,108
+Volkswagen,Taigun,1.5 GT Performance Line TSI MT,1498,5,Petrol,5988
+Maruti Suzuki,Alto,800 - Standard,796,5,Petrol,1697
+Maruti Suzuki,Alto,K10 LXI (O) CNG,998,4,CNG (Inbuilt),5527
+Ford,Escort,Lx 1.3,1297,5,Petrol,4702
+Land Rover,Discovery,3.0 Diesel SE,2993,5,Diesel,4348
+Maruti Suzuki,S-Presso,VXI CNG,998,5,CNG (Inbuilt),5232
+Maruti Suzuki,Ciaz,Sigma 1.5 MT,1462,5,Petrol,4795
+Kia Motors,Seltos - Diesel,1.5 HTE,1493,5,Diesel,4554
+Mahindra Reva Electric Vehicles,Reva i,Classe,13,4,Battery,1341
+Maruti Suzuki,Alto,800 - Lxi CNG 4 Seater,796,4,CNG (Inbuilt),3382
+Volkswagen,Jetta,Comfortline 2.0 TDI,1968,5,Diesel,1165
+BMW,M4,Coupe Competition,2979,5,Petrol,4918
+Skoda,Kodiaq,L&K TDI 4X4 AT,1968,7,Diesel,5443
+Skoda,Kodiaq,2.0 Sportline AT,1984,7,Petrol,6203
+Opel,Opel Astra,1.6,1598,5,Petrol,1513
+Mahindra & Mahindra,KUV 100,K6 5 STR,1197,5,Petrol,3402
+Honda,New Civic - Diesel,ZX MT,1597,5,Diesel,4369
+Hyundai,I20,Asta (O),1197,5,Petrol,435
+Honda,Jazz,VX CVT,1199,5,Petrol,4551
+Skoda,Laura,1.9 TDI AT Ambiente,1896,5,Diesel,827
+Hyundai,Santro,GL Plus,1086,5,Petrol,2636
+Kia Motors,Carens,1.5 Prestige MT,1497,7,Petrol,6172
+Honda,City,SV MT I Dtec,1498,5,Diesel,2336
+Skoda,Rapid,Ambition 1.6 MPI AT,1598,5,Petrol,1432
+Honda,Accord,3.0 V6 AT,2997,5,Petrol,270
+Tata Motors,Nexon Petrol,XZ + (O) Dark,1199,5,Petrol,5974
+Hyundai,Elantra,2.0 VTVT SX AT,1999,5,Petrol,4406
+Honda,Jazz,1.5 S MT (i- DTEC),1498,5,Diesel,3236
+Maruti Suzuki,Baleno,1.3 Alpha,1248,5,Diesel,3263
+Tata Motors,Xenon,Crew Cab,2956,5,Diesel,3692
+BMW,X1,sDrive20d M Sport,1995,5,Diesel,3218
+Mahindra & Mahindra,Scorpio,S9,2179,7,Diesel,5777
+Porsche,Cayman,S Manual,3387,2,Petrol,807
+Maruti Suzuki,Wagon R,LXI LPG - 4 Seater,1061,4,LPG (Inbuilt),5465
+Tata Motors,New Safari,XZA+ Adventure AT,1956,7,Diesel,5542
+Maruti Suzuki,Ciaz,Vxi Option,1373,5,Petrol,3309
+Hyundai,Creta,Sports Edition Dual Tone Diesel,1582,5,Diesel,5337
+Bentley,Arnage,RL,6761,5,Petrol,2734
+Maruti Suzuki,Wagon R,Lxi CNG - 1061 CC,1061,5,CNG (Inbuilt),4919
+Chevrolet,Beat,Diesel LT Option Pack,936,5,Diesel,1588
+Honda,City,i DTec VX,1498,5,Diesel,2298
+Citroen,C5 Aircross,Shine,1997,5,Diesel,5600
+Tata Motors,Tigor,Revotron XZ+,1199,5,Petrol,4863
+Ford,Figo,Aspire 1.2 Ti-VCT Titanium,1196,5,Petrol,3173
+Tata Motors,Indica Vista,GLS Safire65,1172,5,Petrol,4847
+Chevrolet,Spark,1.0 PS,995,5,Petrol,76
+Maruti Suzuki,Alto,800 - Lxi,796,5,Petrol,1699
+Tata Motors,Ace,Magic HT,702,7,Diesel,1338
+Honda,CR-V,2.0L 2WD AT,1997,5,Petrol,2058
+BMW,M8,Coupe,4395,4,Petrol,6160
+Bentley,Brooklands,Coupe,6761,4,Petrol,28
+Mercedes-Benz,AMG,SLC 43,2996,2,Petrol,3874
+Toyota,Qualis,"GST SUPER, 8S",2446,8,Diesel,3104
+Land Rover,Range Rover,Sports TDV8 HSE,2700,5,Diesel,5867
+Tata Motors,Indica Vista,TDI LX,1405,5,Diesel,1414
+Maruti Suzuki,New Wagon R,1.2 Vxi,1197,5,Petrol,4312
+Hyundai,I20,1.4 Asta Diesel,1396,5,Diesel,440
+Chevrolet,Aveo,1.4 LS Limited Edition,1399,5,Petrol,85
+Morris Garages,Hector Plus - Diesel,2.0 Sharp MT,1956,6,Diesel,5255
+Volkswagen,Virtus,1.0 Topline TSI MT,999,5,Petrol,6278
+Hyundai,Verna,1.6 VTVT EX AT,1591,5,Petrol,3991
+Tata Motors,Indigo Manza,Club Class Quadrajet 90 EX,1248,5,Diesel,2225
+Mahindra & Mahindra,KUV 100,K6+ 6 STR,1197,6,Petrol,3407
+Kia Motors,Sonet,1.0 HTX + iMT,998,5,Petrol,5285
+Mahindra & Mahindra,Scorpio-N,Z8L Diesel,2184,7,Diesel,6315
+Tata Motors,New Safari,XZ+ Adventure MT,1956,7,Diesel,5538
+Renault,Duster,RXZ DCI,1461,5,Diesel,2217
+Mercedes-Benz,AMG,GT S,3982,2,Petrol,3875
+Toyota,Etios Liva,VD (Diesel) 1364 CC,1364,5,Diesel,2367
+Maruti Suzuki,800,AC Uniq,796,4,Petrol,589
+BMW,X7,xDrive 40i M Sport,2998,7,Petrol,4971
+Maruti Suzuki,Celerio,ZXI Optional,998,5,Petrol,2261
+Maruti Suzuki,Esteem,Esteem Ax,1298,5,Petrol,618
+Renault,Duster,1.5 RXE Petrol,1498,5,Petrol,6039
+Honda,City,1.5 V CVT (i-VTEC),1497,5,Petrol,4002
+Mahindra & Mahindra,Thar,AX 6-STR Soft Top MT,1997,6,Petrol,5318
+Maruti Suzuki,S-Cross,Smart Hybrid Zeta,1248,5,Diesel,4952
+Tata Motors,Nano GenX,XTA,624,4,Petrol,3551
+Renault,Duster,RXS 85 PS PH2,1461,5,Diesel,3515
+Mercedes-Benz,E-Class,E230,2496,5,Petrol,1342
+Porsche,Panamera,Diesel,2967,4,Diesel,2198
+Toyota,Qualis, 2.4 D GS,2446,8,Diesel,2158
+Hyundai,Verna,1.5 MPI MT SX(O),1497,5,Petrol,5553
+Audi,A4,3.0 TDI,2967,5,Diesel,3607
+Tata Motors,Nexon EV,Max XZ + Lux,97,5,Battery,6306
+Renault,Scala,RxL - Petrol,1498,5,Petrol,1659
+Renault,Duster,RXS Petrol 106PS CVT,1498,5,Petrol,3921
+Maruti Suzuki,Ciaz,ZDI Plus SHVS,1248,5,Diesel,3313
+Renault,Duster,RXS CVT Petrol,1498,5,Petrol,5772
+Honda,City,1.5 V MT End,1497,5,Petrol,293
+Renault,KWID,RXE,799,5,Petrol,3222
+Jaguar,XE,Prestige,1999,5,Petrol,3787
+Maruti Suzuki,Ciaz,Zeta 1.4 MT,1373,5,Petrol,3864
+Tata Motors,Harrier,XT +,1956,5,Diesel,5661
+Tata Motors,Sumo,DX Turbo,1948,10,Diesel,5937
+Maruti Suzuki,New Wagon R,1.2 Vxi AGS,1197,5,Petrol,4317
+Ford,Fiesta,1.5 (D) Style,1498,5,Diesel,1356
+Maruti Suzuki,Grand Vitara,2.4 MT,2393,5,Petrol,613
+Hyundai,Verna Fluidic,1.6 CRDI EX AT,1582,5,Diesel,5813
+Tata Motors,Altroz,XM Rhytm + Style,1199,5,Petrol,4899
+Toyota,Platinum Etios,V,1496,5,Petrol,3650
+Mahindra Renault,Logan,GLE 1.4,1390,5,Petrol,576
+Hyundai,Verna,Fluidic 1.4 VTVT GL,1396,5,Petrol,4719
+Land Rover,Discovery,3.0 Diesel HSE,2993,5,Diesel,4349
+Volkswagen,Polo,1.2L Trendline (P),1198,5,Petrol,1180
+Honda,Jazz,1.2 V CVT (I-VTEC),1199,5,Petrol,4655
+Mahindra & Mahindra,Supro,VX 5 Str,909,5,Diesel,3293
+Maruti Suzuki,Ignis,1.2 Zeta,1197,5,Petrol,3769
+Maruti Suzuki,Celerio,VXI,998,5,Petrol,2257
+Volkswagen,Jetta,1.6 Trendline,1595,5,Petrol,1161
+Honda,Accord,2.4 ELEGANCE MT,2354,5,Petrol,4991
+Maruti Suzuki,Versa,DX2 - BS III,1298,8,Petrol,630
+Skoda,Laura,1.9 TDI MT Elegance,1896,5,Diesel,830
+Isuzu,D-Max,V Cross Z Prestige,1898,5,Diesel,4584
+Hyundai,EON,Magna Plus,814,5,Petrol,1786
+Maruti Suzuki,S-Presso,VXI,998,5,Petrol,4608
+Kia Motors,EV6,GT-Line AWD,77,5,Battery,6271
+Porsche,Cayenne,S V8 Tiptronic,4806,4,Petrol,800
+Ford,Aspire - Diesel,1.5L  Trend MT,1498,5,Diesel,4277
+Volvo,V 40,Cross Country T4,1596,5,Petrol,2711
+Audi,Q7,35 TDI,2967,6,Diesel,3419
+ICML,Extreme,LD Single AC,1994,10,Diesel,1788
+Mahindra & Mahindra,KUV 100,K8 5 STR,1197,6,Petrol,3410
+Mahindra & Mahindra,Thar,LX 4-STR Convertible Diesel MT,2184,4,Diesel,5326
+Renault,KWID,1.0 Marvel Iron Man Edition,999,5,Petrol,4171
+Land Rover,Range Rover Sport,2.0 SE,1997,5,Petrol,5874
+Hyundai,Elantra,2.0 SX (O),1999,5,Petrol,3624
+Mitsubishi,Pajero,2.8 GL,2835,7,Diesel,764
+Volvo,S 80,D5,2400,5,Diesel,1188
+Maruti Suzuki,Celerio,Tour H2 CNG,998,5,CNG (Inbuilt),5473
+Toyota,Etios Cross,1.4L GD,1364,5,Diesel,2387
+Maruti Suzuki,New Dzire,Zdi Plus,1248,5,Diesel,3933
+Tata Motors,Indica V2 Xeta,GVS - BS III,1193,5,Petrol,891
+Hyundai,EON,D Lite +,814,5,Petrol,4715
+Maruti Suzuki,Wagon R,1.1 Primea,1061,5,Petrol,1421
+Mercedes-Benz,E-Class,350 d,2987,5,Diesel,3827
+Hyundai,Creta,1.6 VTVT EX,1591,5,Petrol,4377
+Renault,Pulse,RxZ,1461,5,Diesel,1501
+Maruti Suzuki,Swift Dzire,Lxi,1298,5,Petrol,648
+Skoda,Kushaq,1.0 Monte Carlo AT,999,5,Petrol,6282
+Maruti Suzuki,Alto,XFUN LTD LXI,796,5,Petrol,4177
+Skoda,Octavia,Rider 1.8 Turbo,1781,5,Petrol,862
+Mahindra & Mahindra,Supro,ZX 5 Str,909,5,Diesel,3297
+Maruti Suzuki,S-Cross,DDiS 320 Alpha,1598,5,Diesel,3141
+Maruti Suzuki,Sx4,Vxi (BS IV),1586,5,Petrol,657
+Hyundai,Aura,1.2 MT CNG S,1197,5,CNG (Inbuilt),4929
+Maruti Suzuki,Zen,1.0 At,993,5,Petrol,696
+Hyundai,Elite I20,Magna Executive 1.2,1197,5,Petrol,3861
+Jeep,Compass-Diesel,2.0 Limited 4X2,1956,5,Diesel,5610
+Skoda,Fabia,Ambiente 1.2 MPI,1198,5,Petrol,821
+Maruti Suzuki,Grand Vitara,Xl-7 MT,2736,7,Petrol,614
+Volkswagen,Virtus,1.5 GT Plus TSI DSG,1498,5,Petrol,6280
+Maruti Suzuki,Ciaz,ZDi (O),1248,5,Diesel,2559
+Tata Motors,Zest,XMS Diesel,1248,5,Diesel,2500
+Skoda,Rapid,Active 1.6 MPI MT,1598,5,Petrol,1428
+Land Rover,Discovery,3.0 Diesel S,2993,5,Diesel,4347
+Mahindra & Mahindra,NuvoSport,N8 AMT,1493,7,Diesel,3508
+Porsche,911,Targa 4S,3824,2,Petrol,793
+Skoda,Octavia,2.0 L&K,1984,5,Petrol,5690
+Hyundai,Sonata,2.4 GLS,2397,5,Petrol,5861
+Honda,City,S Diesel,1498,5,Diesel,2230
+Skoda,Fabia,Active Plus 1.2 TDI CR,1199,5,Diesel,1531
+Skoda,Octavia,Style Plus TDI,1968,5,Diesel,3449
+Maruti Suzuki,Ciaz,VXi,1373,5,Petrol,2550
+Mahindra & Mahindra,Marshal,Deluxe 8 Str 2523 cc,2523,8,Diesel,1993
+Maruti Suzuki,Vitara Brezza,ZXI AT,1462,5,Petrol,4960
+Tata Motors,Indigo Manza,Quadrajet EXL,1248,5,Diesel,1738
+Hyundai,Xcent,Base 1.2,1197,5,Petrol,2341
+Hyundai,Getz,GLX,1341,5,Petrol,409
+Renault,Duster,110 PS RxZ Diesel  Opt,1461,5,Diesel,2414
+Mahindra & Mahindra,XUV 500,W10,2179,7,Diesel,2749
+Mahindra & Mahindra,Scorpio,S10 mHawk 1.99 2WD MT 7S,1997,7,Diesel,4117
+Hyundai,Verna,1.6 CRDi SX AT,1582,5,Diesel,3970
+Volkswagen,Ameo,Comfortline 1.0L (P),999,5,Petrol,4876
+BMW,5-Series,530I BSIII,2996,5,Petrol,2219
+Toyota,Platinum Etios,VXD,1364,5,Diesel,3654
+Hyundai,Grand I10 Nios - Petrol,1 2 CNG Sportz MT,1197,5,CNG (Inbuilt),5273
+Land Rover,Range Rover Sport,5.0 V8,5000,7,Petrol,2103
+Mitsubishi,Lancer,1.5 SLXi,1468,5,Petrol,754
+Tata Motors,New Safari,XZ+ Gold,1956,7,Diesel,6166
+Maruti Suzuki,XL6,Zeta Petrol,1462,6,Petrol,4528
+Hyundai,I20,Sportz VTVT,1197,5,Petrol,3598
+Tata Motors,Indica,Xeta GLX,1396,5,Petrol,5793
+Maruti Suzuki,Swift,1.2 Lxi BS IV,1197,5,Petrol,636
+Kia Motors,Sonet - Diesel,1.5 HTK + AT,1493,5,Diesel,5294
+Toyota,Fortuner,2.8 Legender 4X2 AT,2755,7,Diesel,5967
+Ford,Figo,1.2 Duratec Petrol Lxi,1196,5,Petrol,244
+Ford,Endeavour,TDCi 4X2 XLT,2499,7,Diesel,215
+Tata Motors,Altroz,XM,1199,5,Petrol,4896
+BMW,3-Series,M 340i,2998,5,Petrol,5797
+Toyota,Fortuner,2.5 4x2 MT TRD Sportivo,2494,7,Diesel,2693
+Maruti Suzuki,Wagon R,1.0 Vxi ABS-Airbag,998,5,Petrol,672
+Maruti Suzuki,Ciaz,Zxi +,1373,5,Petrol,2623
+Volkswagen,Polo,Highline 1.5L (D),1498,5,Diesel,2452
+Tata Motors,Indica Vista,Terra 1.2 Safire,1172,5,Petrol,899
+Mercedes-Benz,C-Class,200 CDi Classic,2148,5,Diesel,711
+Hyundai,Grand I10,Era U2 1.2 CRDi,1186,5,Diesel,3808
+Skoda,Fabia,Ambition 1.2 TDI FL Plus CR,1198,5,Diesel,1663
+Tata Motors,Zest,PREMIO,1248,5,Diesel,4867
+Toyota,Innova,Crysta 2.4 GX 7 STR,2393,7,Diesel,3524
+Honda,City,i VTEC CVT SV,1497,5,Petrol,2303
+Toyota,Innova,2.0 G1,1998,8,Petrol,1071
+Renault,Duster,110 PS RxZ Adventure,1461,5,Diesel,2415
+Hyundai,Verna,1.6 SX Plus AT CRDI,1582,5,Diesel,4723
+Nissan,Kicks - Diesel,1.5 XV Pre Option,1461,5,Diesel,4323
+Hyundai,Alcazar,Prestige MT - 6 Str,1999,6,Petrol,5732
+Jeep,Compass-Diesel,2.0 S (O1) 4X4 D AT,1956,5,Diesel,5619
+Datsun,GO,T CVT,1198,5,Petrol,5456
+Skoda,Superb,Elegance 1.8 TSI MT,1798,5,Petrol,1589
+Kia Motors,Carens - Diesel,1.5 Prestige MT,1493,7,Diesel,6182
+Tata Motors,New Safari,XMA AT,1956,7,Diesel,5539
+Hyundai,Santro Xing,XP,1086,5,Petrol,394
+Bentley,Continental,GTC Convertible,5998,4,Petrol,24
+Toyota,Etios Liva,V SP*,1197,5,Petrol,1968
+Maruti Suzuki,Versa,Dx - BS III,1298,8,Petrol,628
+Toyota,Hilux,High AT,2755,5,Diesel,6231
+Honda,Amaze,1.2 E I-VTEC O,1199,5,Petrol,5114
+Hyundai,Elite I20,Asta 1.2 Dual Tone,1197,5,Petrol,4733
+Audi,A4,2.0 TFSI,1984,5,Petrol,8
+Tata Motors,Harrier,Kaziranga XZ+,1956,5,Diesel,6300
+Tata Motors,Sumo,Victa Di LX,2956,7,Diesel,1005
+Tata Motors,Indica V2 Xeta,1.2 GLE - BS III,1193,5,Petrol,885
+Skoda,Rapid,1.6 Elegance Plus,1598,5,Diesel,5906
+Mahindra & Mahindra,XUV 500,W8 2WD,2179,7,Diesel,1397
+Maruti Suzuki,S-Cross,1.5 Delta AT Petrol,1462,5,Petrol,5486
+Tata Motors,Indigo Manza,Elan Quadrajet,1248,5,Diesel,1268
+Tata Motors,Venture,EX,1405,7,Diesel,1313
+Hyundai,Elite I20,Magna Executive 1.4 CRDI,1396,5,Diesel,3862
+Tata Motors,Safari,4X4 Ex Tcic - 8 Seater,1948,8,Diesel,1560
+Hyundai,New Santro,1.1  Era MT,1086,5,Petrol,4264
+Land Rover,Range Rover,Evoque HSE Dynamic Convertible,1997,5,Petrol,5148
+Skoda,Superb,1.8 TSI AT,1798,5,Petrol,849
+Chevrolet,Enjoy,1.4 LT 7 Seater,1389,7,Petrol,1837
+Bentley,Continental,Flying Spur V8,3993,5,Petrol,3597
+Honda,City,1.3 Lxi,1343,5,Petrol,286
+Skoda,Yeti,Elegance 4x4 2.0 TDI MT,1968,5,Diesel,1263
+Maruti Suzuki,Grand Vitara,2.0 MT,1995,5,Petrol,610
+Tata Motors,Nexon Petrol,XMA,1198,5,Petrol,5227
+Ford,Fiesta,Classic 1.6 Duratec Lxi,1596,5,Petrol,1274
+Chevrolet,Enjoy,1.3 LS 7 STR,1248,7,Diesel,5018
+Mahindra & Mahindra,Scorpio-N,Z2 Diesel,2184,7,Diesel,6311
+Maruti Suzuki,Alto,800 LX O,796,5,Petrol,5179
+Bentley,Mulsanne,V 8,6752,5,Petrol,1759
+Renault,KWID,1.0 RXT Optional,999,5,Petrol,3627
+Maruti Suzuki,800,Duo Std LPG,796,4,LPG (Inbuilt),587
+Volvo,S 60,Summum D3,1984,5,Diesel,5205
+Mahindra & Mahindra,Imperio,DC VX 2WD,2489,5,Diesel,3772
+Tata Motors,Altroz,XM Rhytm,1199,5,Petrol,4898
+Hyundai,Xcent,1.2 Kappa Base CNG,1197,5,CNG (Inbuilt),3348
+Kia Motors,Carens,1.4 Premium MT,1353,7,Petrol,6173
+Mitsubishi,Pajero,Sport 2.5 MT,2477,7,Diesel,4819
+Tata Motors,Nexon EV,XZ +,97,5,Battery,4937
+Chevrolet,Tavera,LS B2 10Seater,2499,10,Diesel,141
+Tata Motors,Indigo,GLX - BS III,1396,5,Petrol,935
+Hyundai,Tucson,2WD MT Diesel,1995,5,Diesel,3712
+Hyundai,Verna,1.6 CRDI EX,1582,5,Diesel,3994
+Tata Motors,Indigo Xl,Grand Dicor,1396,5,Diesel,941
+Toyota,Corolla Altis,1.8 J CNG,1798,5,CNG (Inbuilt),5194
+Volkswagen,Cross Polo,1.2,1198,5,Petrol,2696
+BMW,X5,Xdrive 30d,2993,5,Diesel,2024
+Tata Motors,Nexon Petrol,XE,1199,5,Petrol,4016
+Chevrolet,Tavera,NY ELITE LS B3 7 STR BS III,2499,7,Diesel,5024
+Tata Motors,Indica V2 Turbo,Turbo DLG,1405,5,Diesel,880
+Toyota,Urban Cruiser,High MT,1462,5,Petrol,5297
+Jaguar,XF,5.0 L Portfolio,5000,5,Petrol,1596
+BMW,6-Series,650I Coupe,4799,4,Petrol,37
+Volkswagen,Cross Polo,1.5 TDI 66 KW BSIV,1498,5,Diesel,3364
+Kia Motors,Sonet,1.0 GTX+ DCT,998,5,Petrol,5369
+Toyota,Corolla,H4 1.8G,1794,5,Petrol,1054
+Ford,Fiesta,1.4 ZXI TDCi,1399,5,Diesel,195
+Mercedes-Benz,Gl,350 CDi Blue Efficiency,2987,7,Diesel,742
+Maserati,Granturismo,S 4.7,4691,4,Petrol,2109
+Ford,Freestyle - Diesel,Trend 1.5L TDCi,1498,5,Diesel,4152
+Tata Motors,Tiago,Revotron XM (O),1199,5,Petrol,3492
+Hyundai,Grand I10,Magna 1.1 CRDi,1120,5,Diesel,1946
+Hyundai,Santro Xing,XE,1086,5,Petrol,392
+Mahindra Reva Electric Vehicles,Reva i,Standard,13,4,Battery,1339
+Fiat,Uno,1.7 Trend,1697,5,Diesel,1234
+Maruti Suzuki,Celerio,LDI Optional,793,5,Diesel,3318
+Datsun,Redi-GO,S,799,5,Petrol,3574
+Toyota,Camry,2.5L - Automatic,2494,5,Petrol,1649
+Volkswagen,Ameo,Comfortline Plus 1.5L (D),1498,5,Diesel,4125
+Audi,S4,3.0 TFSI,2995,5,Petrol,1769
+Jeep,Compass-Petrol,1.4 Night Eagle AT,1368,5,Petrol,5605
+Renault,Captur Diesel,RXL,1461,5,Diesel,4070
+Tata Motors,Sumo Grande,MK II GX - 7 Seater,2179,7,Diesel,1039
+Hyundai,Sonata,Embera MT (Fabric)2,2359,5,Petrol,402
+Tata Motors,Tiago,NRG Revotorq Diesel,1047,5,Diesel,4258
+Audi,A6,35 TFSI Technology,1984,5,Petrol,4652
+Honda,City,i VTEC VX,1497,5,Petrol,2304
+Audi,A8,L 50 TDI Quattro Premium Plus,2967,4,Diesel,3463
+Jaguar,XE,PORTFOLIO DIESEL,1999,5,Diesel,4996
+Hyundai,Elantra,Fluidic S,1582,5,Diesel,5857
+Tata Motors,Sumo Grande,Gx 8Str,2179,8,Diesel,1043
+Toyota,Corolla Altis,G Diesel,1364,5,Diesel,1065
+Toyota,Prius,1.8 Z3,1798,5,Petrol,1159
+Morris Garages,Hector Plus - Diesel,2.0 Smart MT,1956,6,Diesel,5254
+Maruti Suzuki,Ertiga,Lxi Option,1373,7,Petrol,3254
+BMW,X4,xDrive 30d M Sport X,2993,5,Diesel,4363
+Datsun,Redi-GO,D,799,5,Petrol,3570
+Audi,A8,L 4.2 TDI Quattro,4134,5,Diesel,2377
+Renault,Duster,RxL Plus 104 PS Petrol,1461,5,Petrol,2481
+Tata Motors,Tigor,Buzz Diesel,1047,5,Diesel,4862
+Tata Motors,Indigo e CS,VX,1396,5,Diesel,1487
+ICML,Extreme,LD Non AC,1994,10,Diesel,1787
+Mahindra & Mahindra,Rexton,RX 7 AT AWD,2696,7,Diesel,1708
+Skoda,Rapid,1.6 MPI Active Plus,1598,5,Petrol,3420
+Honda,Amaze,EX (P),1198,5,Petrol,1809
+Mahindra & Mahindra,Xylo,H4 7Str,2179,7,Diesel,1862
+Hyundai,Getz Prime,1.3 GLX,1341,5,Petrol,419
+Audi,Q7,3.0 TDI Quattro 5 Str,2967,5,Diesel,3
+Jeep,Compass-Diesel,2.0 Limited 80TH Anniversary 4X4 D AT,1956,5,Diesel,5617
+Skoda,Yeti,Ambiente 4x4 2.0 TDI MT,1968,5,Diesel,1262
+Toyota,Innova Crysta,Touring Sport Diesel MT,2393,7,Diesel,4874
+Audi,Q5,2.0 TDI Quattro,1968,5,Diesel,1530
+Renault,Duster,110 PS RXL,1461,5,Petrol,5190
+Toyota,Innova Crysta,2.7 GX AT 7 STR,2694,7,Petrol,3736
+Chevrolet,Sail,1.2 Base,1199,5,Petrol,2279
+Honda,Amaze,1.5 V CVT i-DTEC,1498,5,Diesel,4307
+Tata Motors,Sumo,Spacio Gold Sa 9Str,2956,9,Diesel,1013
+Maruti Suzuki,Grand Vitara,2.4 AT,2393,5,Petrol,612
+Honda,WRV,VX MT Diesel Exclusive Edition,1498,5,Diesel,4624
+Hyundai,Aura,1.2 AMT KAPPA SX+,1197,5,Petrol,4927
+Toyota,Etios,1.4 Xclusive,1364,5,Diesel,3184
+Tata Motors,Sumo,Victa Di Gx 9Str,2956,9,Diesel,1016
+Hyundai,Venue - Petrol,1.0 Turbo GDI MT SX(O),998,5,Petrol,4424
+Maruti Suzuki,Alto,K10 VXI (O),998,5,Petrol,3359
+Audi,Q7,3.0 TDI Nav Pack 6 Str,2967,6,Diesel,1798
+Skoda,Laura,Ambiente 2.0 TDI CR MT,1968,5,Diesel,833
+Maruti Suzuki,Swift Dzire,VDI Optional,1248,5,Diesel,3330
+Hindustan Motors,Ambassador,Classic 2000 DSZ AC,1995,5,Diesel,251
+Hyundai,I10,Magna 1.2,1197,5,Petrol,428
+Skoda,Rapid,Monte Carlo 1.6 MPI AT,1598,5,Petrol,4044
+Tata Motors,Zest,XE Petrol,1193,5,Petrol,2494
+Mercedes-Benz,C-Class,200 K MT,1796,5,Petrol,713
+Tata Motors,Indica Vista,Aura Plus 1.3 Quadrajet,1248,5,Diesel,915
+Force,Force One,EX 7Str,2650,7,Diesel,2034
+Chevrolet,Aveo U-Va,1.2 LT,1150,5,Petrol,98
+Chevrolet,Tavera,NEO 3 LS 7 STR BS IV,2499,7,Diesel,5028
+Mahindra & Mahindra,Bolero,GLX 2498 CC,2498,8,Diesel,2380
+Tata Motors,Harrier,XT,1956,5,Diesel,4328
+Honda,Amaze,1.2 VX CVT Petrol,1199,5,Petrol,4601
+Chevrolet,Tavera,Neo 3 LT- 9 STR BS-IV,2499,9,Diesel,1686
+Tata Motors,Indigo Manza,Aura (ABS) Safire,1368,5,Petrol,953
+Hyundai,I20,Magna,1197,5,Petrol,436
+Mahindra & Mahindra,Bolero,GLX 4WD,2498,7,Diesel,500
+Jeep,Compass-Diesel,Longitude (O) 2.0 Diesel,1956,5,Diesel,3963
+Hyundai,I10,Asta 1.2 AT Kappa2 with Sunroof,1197,5,Petrol,2089
+Mahindra & Mahindra,Bolero,B4,1493,7,Diesel,5223
+Tata Motors,Indigo Manza,Aura Safire,1368,5,Petrol,955
+Fiat,Grande Punto,Sport,1248,5,Diesel,1929
+Ford,Figo,1.4 Duratorq Diesel Titanium,1399,5,Diesel,242
+Hyundai,Aura - Diesel,1.2 AMT CRDI S,1186,5,Diesel,4935
+Volkswagen,Vento,1.0Highline Plus Petrol,999,5,Petrol,5720
+Maruti Suzuki,Ciaz,VXi +,1373,5,Petrol,2551
+Maruti Suzuki,New Dzire,Ldi,1248,5,Diesel,1492
+Tata Motors,Nexon Petrol,XMA AMT,1199,5,Petrol,4646
+Tata Motors,Tiago,Revotorq XZ Plus Dual Tone,1047,5,Diesel,4454
+Audi,Q5,2.0 TFSI Quattro,1984,5,Petrol,22
+Mahindra & Mahindra,XUV 500,W9,2179,7,Diesel,4158
+Hyundai,Xcent,Prime T+ CNG,1197,5,CNG (Inbuilt),5500
+Tata Motors,Tiago,Revotorq XB,1047,5,Diesel,3491
+Maruti Suzuki,XL6,Alpha + AT,1462,6,Petrol,6239
+Maruti Suzuki,Esteem,Vxi - BS III,1298,5,Petrol,622
+Toyota,Corolla,1.8 Le H7,1794,5,Petrol,1058
+Maruti Suzuki,Wagon R,1.0 Duo Lxi,998,5,LPG (Inbuilt),1285
+Hyundai,Grand I10,Sportz,1197,5,Petrol,2266
+Audi,S6,4.0 TFSI,3993,5,Petrol,1934
+Honda,Jazz,SV MT,1198,5,Petrol,3450
+Hyundai,EON,LPG Magna Plus,800,5,LPG (Inbuilt),1575
+Hyundai,Accent,Viva CRDi,1493,5,Diesel,354
+Maruti Suzuki,New Dzire,Zdi AMT,1248,5,Diesel,3932
+Jaguar,F-Pace,R-SPORT,2993,5,Diesel,3685
+Mercedes-Benz,E-Class,240 AT,2597,5,Petrol,1508
+Morris Garages,Astor,Smart MT,1498,5,Petrol,6024
+Hyundai,Creta,1.6 SX VTVT,1591,5,Petrol,4389
+Tata Motors,Venture,GX,1405,8,Diesel,1314
+Volkswagen,Vento,1.2 GT Line (P),1197,5,Petrol,4577
+Hyundai,Verna,VGT CRDi SX ABS,1493,5,Diesel,332
+Kia Motors,Sonet - Diesel,1.5 HTK +,1493,5,Diesel,5290
+Hyundai,Xcent,S 1.1 CRDi (O),1120,5,Diesel,2349
+Skoda,Superb,Style 2.0 TDI AT,1968,5,Diesel,3453
+Hindustan Motors,Ambassador,Grand 1800 ISZ CNG,1817,5,CNG (Inbuilt),253
+Tata Motors,Indica Vista,Aura Plus 1.2 Safire,1172,5,Petrol,917
+Hyundai,Xcent,1.2 Kappa SX CNG,1197,5,CNG (Inbuilt),3350
+Chevrolet,Sail U-Va,1.3 TCDi LT ABS,1248,5,Diesel,1726
+Skoda,Rapid,Edition 1.6 MPI AT,1598,5,Petrol,4121
+Maruti Suzuki,Zen,1.0 Vxi,993,5,Petrol,1535
+Datsun,Redi-GO,1.0 T (O),999,5,Petrol,4640
+Fiat,Grande Punto,1.3 Dynamic,1248,5,Diesel,186
+Renault,Pulse,RxZ Optional,1461,5,Diesel,1502
+Chevrolet,Tavera,Neo 3 LT 8 Str BS IV,2499,8,Diesel,4690
+Toyota,Etios Liva,GD SP,1364,5,Diesel,1373
+Nissan,Terrano,XL D THP,1461,5,Diesel,4687
+Tata Motors,Safari,VX Dicor - BS III,2956,7,Diesel,987
+Mahindra & Mahindra,Scorpio,Lx 2.6 Turbo -7 Str,2609,7,Diesel,532
+Tata Motors,Indica Vista,Aura ABS 1.3 Quadrajet,1248,5,Diesel,914
+Audi,A6,2.0 TDI,1968,5,Diesel,1511
+Tata Motors,Bolt,XE,1193,5,Petrol,2613
+Datsun,GO,Anniversary Edition,1198,5,Petrol,5345
+Mahindra & Mahindra,Marshal,DI4WD 10 Seater,2523,10,Diesel,2633
+Mercedes-Benz,CLA-Class,200 Petrol Sport,1991,5,Petrol,3745
+BMW,5-Series,530i Sport Line,1998,5,Petrol,3948
+Hyundai,Sonata,S 20,1997,5,Petrol,398
+Tata Motors,Indica eV2 Xeta,GLX,1193,5,Petrol,1577
+Maruti Suzuki,Swift,Zxi AMT,1197,5,Petrol,4506
+Toyota,Etios Liva,V,1197,5,Petrol,1334
+Mahindra & Mahindra,E2o,Plus P8 - Electric (Battery),30,4,Battery,3689
+Hyundai,Aura,1.2 MT CNG SX,1197,5,CNG (Inbuilt),6284
+Chevrolet,Sail,1.3 Base,1248,5,Diesel,2275
+Ford,Fiesta,Classic 1.4 Titanium (D),1399,5,Diesel,1629
+Maruti Suzuki,New Wagon R,1.2 Zxi+,1197,5,Petrol,6317
+Mahindra & Mahindra,Thar,AX STD 6-STR Soft Top MT,1997,6,Petrol,5317
+Fiat,Palio,NV 1.2 ELX,1242,5,Petrol,162
+Tata Motors,Indica,GLS 1.2L BSIII,1193,5,Petrol,3517
+Renault,Pulse,Petrol RxE,1198,5,Petrol,2509
+Ford,Figo,1.2 (P) Titanium MT,1196,5,Petrol,3281
+Mahindra & Mahindra,Xylo,E6 7Str,2498,7,Diesel,1270
+Maruti Suzuki,Baleno,1.3 Zeta,1248,5,Diesel,3266
+Lamborghini,Huracan,LP 610-4,5204,2,Petrol,2706
+Chevrolet,Optra,1.6 Elite,1598,5,Petrol,57
+Land Rover,Discovery,3.0 Petrol HSE Luxury,2995,5,Petrol,4345
+Chevrolet,Optra,1.6 LS,1599,5,Petrol,58
+Hyundai,Xcent,S 1.1 CRDi,1120,5,Diesel,2346
+Mahindra & Mahindra,XUV 500,W11,2179,7,Diesel,4160
+Toyota,Innova,Crysta 2.4 G 8 STR,2393,8,Diesel,3614
+Hyundai,Getz,GLS,1341,5,Petrol,414
+Fiat,Punto,Dynamic,1248,5,Diesel,5696
+Fiat,Uno,1.2 EL,1242,5,Petrol,1229
+Land Rover,Range Rover Sport,TDV6 SE - 5 Seater,2993,5,Diesel,1522
+Maruti Suzuki,S-Presso,LXI O CNG,998,5,CNG (Inbuilt),5231
+Hyundai,Creta,1.5 CRDi AT SX ,1493,5,Diesel,4984
+Fiat,Uno,1,999,5,Petrol,1235
+Toyota,Glanza,V MT,1197,5,Petrol,4458
+Hyundai,Xcent,SX AT 1.2 (O),1197,5,Petrol,2351
+Tata Motors,Indigo Marina,SX - BS III,1405,5,Diesel,971
+Maruti Suzuki,New Wagon R,1.2 Zxi,1197,5,Petrol,4315
+Tata Motors,Indigo Xl,Classic Petrol,1396,5,Petrol,940
+Tata Motors,Altroz - Diesel,XT,1497,5,Diesel,4911
+Mahindra & Mahindra,Scorpio,S8 7 Seater,2179,7,Diesel,2542
+Skoda,Octavia,Elegance Plus 1.9 TDI,1896,5,Diesel,855
+Skoda,Kodiaq,2.0 Style AT,1984,7,Petrol,6204
+Tata Motors,Sumo,Gold CX - 11 Seater,2956,11,Diesel,2705
+Tata Motors,Sumo,Gold GX - 9 Seater,2956,9,Diesel,1742
+Skoda,Rapid,Elegance Plus Black Package 1.6 MPI AT,1598,5,Petrol,2649
+Land Rover,Range Rover Sport,2.7,2720,5,Diesel,1851
+Skoda,Rapid,Active 1.5 TDI CR,1498,5,Diesel,2562
+Skoda,Octavia,Ambiente 2.0 MPi,1984,5,Petrol,1926
+Honda,Amaze,1.5 S I-DTEC O,1498,5,Diesel,5109
+Mahindra & Mahindra,Scorpio,S4 Plus 4WD 1.99,1997,7,Diesel,4776
+Jaguar,XJ,3.0L Premium Luxury,2993,5,Diesel,3427
+Nissan,Evalia,XE,1461,7,Diesel,1677
+Kia Motors,Seltos - Petrol,1.5 HTX IVT,1497,5,Petrol,5969
+Audi,A3,Cabriolet 4.0 TFSI,1798,5,Petrol,2604
+Tata Motors,Sumo Grande,EX,2179,7,Diesel,1035
+Ford,EcoSport,1.5 Signature MT TIVCT,1497,5,Petrol,4700
+Maruti Suzuki,S-Cross,Sigma Diesel,1248,5,Diesel,5955
+Skoda,Kodiaq,Scout 2.0 TDI AT,1968,7,Diesel,4633
+Fiat,Punto Pure,1.2 Petrol,1172,5,Petrol,3747
+Land Rover,Discovery,3.0 Petrol S,2995,5,Petrol,4342
+Kia Motors,EV6,GT-Line,77,5,Battery,6270
+Fiat,Palio Stile,1.1 SLE,1108,5,Petrol,167
+Tata Motors,Sumo,Victa Di Cx 9Str,2956,9,Diesel,1019
+Volkswagen,Ameo,Highline1.2L (P),1198,5,Petrol,3577
+BMW,3-Series,320I,1995,4,Petrol,30
+Mercedes-Benz,S-Class,S63 AMG Coupe,5461,4,Petrol,3154
+Skoda,Fabia,Elegance 1.2 MPI,1198,5,Petrol,824
+Mahindra & Mahindra,Scorpio,Getaway 2WD BS IV - 2179 CC,2179,5,Diesel,4078
+Ford,Aspire - Petrol,1.2 Ambiente CNG,1194,5,CNG (Inbuilt),5837
+Skoda,Rapid,Elegance 1.6 MPI AT,1598,5,Petrol,1434
+Hyundai,Elantra,GLS,1795,5,Petrol,321
+Skoda,Octavia,Elegance 1.8 TSI AT,1798,5,Petrol,2049
+Ford,Figo,1.5D Base MT,1498,5,Diesel,3274
+Maruti Suzuki,Esteem,MPI,1298,5,Petrol,5713
+Fiat,Palio Stile,1.3 SDX,1248,5,Diesel,171
+Maruti Suzuki,Esteem,Lxi,1298,5,Petrol,624
+Toyota,Fortuner,FC - 4*2 Manual,2982,7,Diesel,1553
+Honda,Accord,2.4 VTI-L AT,2354,5,Petrol,268
+Tata Motors,Tiago,Revotron XZA Plus Dual Tone,1199,5,Petrol,4451
+Skoda,Fabia,Elegance 1.2 TDI,1199,5,Diesel,1283
+Toyota,Yaris,VX CVT,1496,5,Petrol,4137
+Hyundai,New Santro,1.1  Sportz AMT,1086,5,Petrol,4268
+Hyundai,I20,Active S VTVT,1197,5,Petrol,3556
+Ford,Figo,Aspire 1.5 TDCi Titanium,1498,5,Diesel,3176
+Maruti Suzuki,Ertiga,SHVS ZDI Plus,1248,7,Diesel,3259
+Maruti Suzuki,Eeco,7 Str,1196,7,Petrol,633
+Honda,WRV,S MT Petrol Edge+ Edition,1199,5,Petrol,4625
+Toyota,Etios Liva,VD SP,1364,5,Diesel,4872
+Tata Motors,Sierra,1.9,1948,5,Diesel,2040
+Chevrolet,Sail U-Va,1.3 PS,1248,5,Diesel,2339
+Mahindra & Mahindra,Scorpio,S4 7 Seater,2179,7,Diesel,2536
+Maruti Suzuki,S-Presso,VXI AGS,998,5,Petrol,4611
+Kia Motors,Sonet,1.2 HTK+,1197,5,Petrol,5282
+Chevrolet,Tavera,LS B3 7 STR BS III,2499,7,Diesel,5012
+Tata Motors,Hexa,XM 4*2 7STR,2179,7,Diesel,3777
+Hyundai,Creta,1.5 MPi MT SX Executive,1497,5,Petrol,5715
+Maruti Suzuki,Celerio X,ZXI AMT,998,5,Petrol,4111
+Skoda,Superb,2.0 TDI PD,1968,5,Diesel,851
+Toyota,Camry,V3,2362,5,Petrol,1152
+Hyundai,Xcent,VTVT,1197,5,Petrol,3136
+Maruti Suzuki,Wagon R,1.0 Minor Vxi,998,5,Petrol,5568
+Nissan,Teana,250 XL,2496,5,Petrol,775
+Mahindra & Mahindra,KUV 100,K6+ D 6 STR,1198,6,Diesel,3415
+Morris Garages,Hector Plus - Petrol,1.5 Sharp DCT,1451,6,Petrol,5251
+Toyota,Innova,Crysta 2.7 GX 7 STR,2694,7,Petrol,3611
+Tata Motors,New Safari,XZA+ Gold,1956,7,Diesel,6085
+Renault,Kiger,RXL  Energy MT,999,5,Petrol,5504
+Volkswagen,Virtus,1.0 Highline TSI MT,999,5,Petrol,6276
+Tata Motors,Nano,CNG emax CX,624,4,CNG (Inbuilt),2132
+Hyundai,Venue - Diesel,1.4 CRDi MT SX Dual Tone,1396,5,Diesel,4431
+Maruti Suzuki,Wagon R,1.0 VXI+ AMT (O),998,5,Petrol,3795
+BMW,5-Series,525D 1995 CC,1995,5,Diesel,3365
+Land Rover,Freelander 2,SE,2179,5,Diesel,469
+Mahindra & Mahindra,KUV 100,K4 D 6 STR,1198,6,Diesel,3406
+Skoda,Octavia,Onyx Edition (Diesel),1968,5,Diesel,3831
+Chevrolet,Optra,SRV 1.6 With Option Pack,1598,5,Petrol,59
+BMW,5-Series,520d Sport Line,1995,5,Diesel,3946
+Hyundai,Verna,VTVT EX 1.6,1599,5,Petrol,1763
+Mercedes-Benz,GLE Class,250d,2143,5,Diesel,3250
+Hyundai,Verna,1.6 SX CRDI,1582,5,Diesel,4722
+Maruti Suzuki,Ertiga,Lxi CNG,1373,7,CNG (Inbuilt),2626
+Hyundai,Accent,GLS,1495,5,Petrol,358
+Mahindra & Mahindra,TUV 300,Plus P4,2179,9,Diesel,4198
+Tata Motors,Bolt,XT 1248 CC,1248,5,Diesel,2620
+Honda,City,1.5 V MT,1497,5,Petrol,288
+Hyundai,Venue - Petrol,1.2 S(O) MT,1197,5,Petrol,6291
+Mercedes-Benz,M-Class,ML 350 Grand Sports,2987,5,Diesel,1568
+Tata Motors,Indica V2 Xeta,1.2 GLG - BS III,1193,5,Petrol,896
+Mahindra & Mahindra,XUV 500,W6 2WD,2179,7,Diesel,1396
+Tata Motors,Nexon Diesel,XZA Plus Dual Tone,1497,5,Diesel,4210
+Honda,CR-V,2.4 AT,2354,5,Petrol,310
+Tata Motors,Sumo,SA EGR,1948,10,Diesel,998
+Maruti Suzuki,New Dzire,Vdi,1248,5,Diesel,1494
+Hyundai,I20,1.2 Asta (O),1197,5,Petrol,5397
+Audi,Q5,3.0 TDI Quattro,2967,5,Diesel,23
+Morris Garages,Hector Plus - Petrol,1.5 Super MT,1451,7,Petrol,6191
+Tata Motors,Indigo Cs,ELX,1396,5,Diesel,949
+Hyundai,Creta,1.4 CRDI L,1396,5,Diesel,3148
+Honda,Jazz,Mode,1198,5,Petrol,279
+Skoda,Fabia,Ambition 1.2 MPIHATCHBACK,1198,5,Petrol,1570
+Mahindra & Mahindra,XUV 500,W5,2179,7,Diesel,4155
+BMW,5-Series,530D,2993,5,Diesel,32
+Chevrolet,Optra Magnum,2.0 LS TCDi,1991,5,Diesel,69
+Mahindra & Mahindra,Xylo,H9 8Str,2179,8,Diesel,1830
+BMW,3-Series,330D Convertible,2993,4,Diesel,2137
+Maruti Suzuki,Ertiga,ZXI Plus,1373,7,Petrol,3261
+Fiat,Linea,Emotion 1.3 MJD,1248,5,Diesel,180
+Honda,Jazz,1.5 SVMT (i- DTEC),1498,5,Diesel,3237
+Mahindra & Mahindra,TUV 300,T6 Plus,1493,7,Diesel,3208
+Toyota,Corolla,H3 1.8G,1794,5,Petrol,1057
+Renault,Kiger,RXZ Easy-R AMT  Energy,999,5,Petrol,5518
+Mahindra & Mahindra,XUV 500,FWD W8,2179,7,Diesel,2134
+Kia Motors,Seltos - Petrol,1.4 GTX+ DCT,1353,5,Petrol,5264
+Mahindra & Mahindra,Thar,AX OPT 4-STR Convertible Diesel MT,2184,4,Diesel,5787
+Jeep,Grand Cherokee,Summit,2987,5,Diesel,3641
+Mercedes-Benz,C-Class,C 300 D AMG Line,1950,5,Diesel,5342
+Hyundai,Venue - Petrol,1.0 Turbo GDI MT SX,998,5,Petrol,4421
+Mahindra & Mahindra,Thar,AX 4-STR Convertible MT,1997,4,Petrol,5319
+Volkswagen,Passat,Trendline MT,1968,5,Diesel,1921
+Toyota,Corolla Altis,VL AT PETROL,1798,5,Petrol,2427
+Toyota,Innova Crysta,2.8 GX AT 8 STR,2755,8,Diesel,3727
+Maruti Suzuki,Swift Dzire,Tour S Petrol (O),1197,5,Petrol,5494
+Audi,R8,5.2 V10 Spyder,5204,2,Petrol,2010
+Hyundai,Creta,1.4 CRDI E +,1396,5,Diesel,4381
+Tata Motors,Sumo,Gold Lx BS-IV,2956,7,Diesel,4858
+Tata Motors,Indigo ECs,GVX,1193,5,Petrol,2561
+Mahindra & Mahindra,XUV 500,W9 AT,2179,7,Diesel,4161
+Maruti Suzuki,Celerio,VXI AT,998,5,Petrol,2260
+Hyundai,Santro,XG,1086,5,Petrol,2417
+Maruti Suzuki,New Wagon R,1.0 Vxi CNG,998,5,CNG (Inbuilt),6210
+Land Rover,Range Rover Sport,3L SDV6 Diesel SE,2993,5,Diesel,3210
+Mahindra & Mahindra,XUV 500,W3,2179,7,Diesel,4794
+Honda,City,1.5 Exi,1497,5,Petrol,1420
+Toyota,Innova,"2.5 V (E3) PACKAGE : X, 8 SEATER",2494,8,Diesel,3008
+Ford,EcoSport,1.0 (P) Titanium Ecoboost,999,5,Petrol,1869
+Datsun,Redi-GO,1.0 S AMT,999,5,Petrol,4583
+Fiat,Palio Stile,1.1 SL,1108,5,Petrol,166
+Tata Motors,Harrier,XE,1956,5,Diesel,4326
+Hyundai,Creta,1.6 VTVT SX AT,1591,5,Petrol,4386
+Maruti Suzuki,Swift Dzire,1.2 LXI O,1197,5,Petrol,5334
+Nissan,Teana,250 XV,2496,5,Petrol,776
+Datsun,GO Plus,T,1198,7,Petrol,2608
+Hyundai,I10,Asta 1.2 With Sunroof,1197,5,Petrol,424
+Land Rover,Range Rover,5.0 Autobiography,5000,5,Diesel,5866
+Toyota,Innova Crysta,2.4 GX AT 8 STR,2393,8,Diesel,5416
+Nissan,Sunny,XE,1498,5,Petrol,1390
+Mitsubishi,Lancer,LED 2.0,1998,5,Diesel,4813
+Chevrolet,Tavera,Neo 3 Base Captain,2499,7,Diesel,5835
+Nissan,Terrano,XV Premium 110 PS (D),1461,5,Diesel,2119
+Maruti Suzuki,Wagon R,New Minor LPG 4 Seater,1061,4,LPG (Inbuilt),3394
+Fiat,Palio,GTX,1596,5,Petrol,164
+Maruti Suzuki,Ciaz,Zeta 1.5 AT,1462,5,Petrol,4798
+BMW,3-Series,328 I Sport Line,1997,5,Diesel,1623
+Skoda,Rapid,Elegance 1.5 TDI CR,1498,5,Diesel,2564
+Jeep,Compass-Diesel,Limited (O) 2.0 Diesel 4x4,1956,5,Diesel,3967
+Mahindra & Mahindra,Scorpio,S2 2WD -  9 Seater,2523,9,Diesel,5581
+Mahindra & Mahindra,XUV 300 - Petrol,W6,1197,5,Petrol,4338
+Hyundai,I10,Asta 1.2 AT With Sunroof,1197,5,Petrol,423
+Mahindra Reva Electric Vehicles,Reva i,AC,13,4,Battery,1340
+Fiat,Grande Punto,1.4 Emotion,1368,5,Petrol,190
+Kia Motors,Carnival,Premium 8,2199,8,Diesel,4940
+Volvo,S 60,D3 Kinetic,1984,5,Diesel,1667
+Ford,Figo,Ambiente 1.5 TDCi ABS,1498,5,Diesel,3783
+Tata Motors,Aria,Prestige 4 x 4,2179,7,Diesel,1207
+Nissan,Magnite,1.0 XL MT,999,5,Petrol,5423
+Mahindra & Mahindra,Verito,1.6 G6 Executive BS-IV,1598,5,Petrol,4793
+Skoda,Karoq,1.5 Style AT,1498,5,Petrol,5242
+Hyundai,I20,1.2 Asta iVT,1197,5,Petrol,5399
+Volkswagen,Polo,GT TDI,1598,5,Diesel,1975
+Mahindra & Mahindra,Scorpio,S5 - 9 Seater,2179,9,Diesel,4239
+Ford,Figo,TITANIUM 1.5 TDCI O,1498,5,Diesel,5076
+Skoda,Rapid,Style Plus MT 1.5 TDI CR,1498,5,Diesel,3662
+Volkswagen,Vento,1.0 Highline Petrol AT,999,5,Petrol,5719
+Mahindra & Mahindra,Verito,1.5 D6 BS IV,1461,5,Diesel,1326
+Tata Motors,Movus,LX 8 Seater,2179,8,Diesel,2401
+Mahindra & Mahindra,Scorpio,VLS 2.2 Mhawk,2179,7,Diesel,4791
+Chevrolet,Tavera,Neo 3-9 STR BS III,2499,9,Diesel,3564
+Fiat,Linea,Classic 1.3 L  Multijet Classic  Pulse,1248,5,Diesel,2526
+Maruti Suzuki,XL6,Alpha + MT,1462,6,Petrol,6238
+Hyundai,Santa Fe,2 WD,2199,7,Diesel,451
+Ford,Fiesta,1.4 Exi TDCi,1399,5,Diesel,201
+Fiat,Palio Stile,1.3 SDE,1248,5,Diesel,170
+Mahindra & Mahindra,Xylo,D2 MDI CRDE 2WD 9 Seater,2489,9,Diesel,3139
+Maruti Suzuki,Eeco,5 Str With A/C+Htr,1196,5,Petrol,635
+Hyundai,Grand I10,Asta Option,1197,5,Petrol,2268
+Tata Motors,Indica Vista,Aura 1.3 Quadrajet,1248,5,Diesel,922
+Hyundai,Grand I10,Sports 1.2 BS IV,1197,5,Petrol,2573
+Morris Garages,Hector - Petrol,1.5 Sharp DCT,1451,5,Petrol,4475
+Tata Motors,Sumo,Gold FX BS-IV - 7 Seater,2956,7,Diesel,1994
+Renault,Kiger,RXT  Energy MT,999,5,Petrol,5507
+Hyundai,Getz,GLE,1341,5,Petrol,413
+Hyundai,Elantra,SX AT,1797,5,Petrol,2730
+Hyundai,New Santro,1.1  Era Executive MT,1086,5,Petrol,4525
+Hyundai,Grand I10,Sports (O) 1.2 Kappa VTVT,1197,5,Petrol,3804
+Chevrolet,Spark,1.0 LT LPG,995,5,LPG (Inbuilt),1304
+Mahindra & Mahindra,Scorpio,S5 MH 2W 140,2179,7,Diesel,5991
+Morris Garages,Hector Plus - Petrol,1.5 Style MT,1451,6,Petrol,5249
+Jaguar,XJ 3.0 L,LWB Ultimate,2993,4,Diesel,2411
+Nissan,Evalia,XE +,1461,7,Diesel,1678
+Hyundai,Grand I10 Nios - Diesel,1.2 CRDI Sportz AMT,1186,5,Diesel,4533
+Honda,WRV,S Petrol,1199,5,Petrol,3839
+Toyota,Fortuner,2.7L 4*2 MT,2694,7,Petrol,3705
+Hyundai,Verna,1.5 MPI MT S,1497,5,Petrol,5552
+Mahindra & Mahindra,Genio,Double Cab VX,2489,5,Diesel,1693
+Hyundai,Tucson,2.0 CRDi,1991,7,Diesel,323
+Mahindra & Mahindra,KUV 100,K8 D 5 STR,1198,5,Diesel,3416
+Renault,Duster,85 PS RxL Diesel,1461,5,Diesel,1645
+Skoda,Octavia,1.8 TSI Style AT,1798,5,Petrol,4835
+Hyundai,Santro Xing,XK e-Rlx - Euro III,1086,5,Petrol,386
+Honda,Amaze,S (P),1198,5,Petrol,1810
+Hyundai,Verna Transform,1.5 CRDi,1493,5,Diesel,339
+Renault,Lodgy,110PS RxL,1461,8,Diesel,2684
+Hyundai,Venue - Diesel,1.5 CRDi MT S,1493,5,Diesel,5209
+Maruti Suzuki,Ciaz,Alpha Diesel,1248,5,Diesel,4512
+Hyundai,Creta,1.5 MPi MT EX,1497,5,Petrol,4972
+Mercedes-Benz,Slk-Class,350,3498,2,Petrol,740
+Volvo,Xc 90,D5 Momentum,1969,7,Diesel,2719
+Maruti Suzuki,Vitara Brezza,ZDI  Plus AMT,1248,5,Diesel,4247
+Hyundai,Getz Prime,1.1 GVS,1086,5,Petrol,416
+Ford,EcoSport,1.5 (D) Trend (O),1498,5,Diesel,3603
+Audi,Q3,2.0 TDI Premium Plus,1968,5,Diesel,2386
+Maruti Suzuki,Vitara Brezza,ZXI +,1462,5,Petrol,4958
+Mitsubishi,Cedia,Select ALPG,1999,5,LPG (Inbuilt),745
+Skoda,Rapid,Onyx 1.6 MPI AT LE,1598,5,Petrol,4839
+Mitsubishi,Pajero,Sport  AT,2477,7,Diesel,6015
+Mercedes-Benz,E-Class,240 MT,2597,5,Petrol,1507
+Eicher Polaris Pvt Ltd,Multix,MX,511,5,Diesel,3169
+Volkswagen,Taigun,1.5 GT Plus Performance Line TSI AT DSG,1498,5,Petrol,5989
+Fiat,Siena,1.6 El Ps,1596,5,Petrol,1228
+Toyota,Yaris,J AT,1496,5,Petrol,4131
+Morris Garages,Hector Plus - Diesel,2.0 Style MT,1956,6,Diesel,5252
+Tata Motors,Bolt,XT,1193,5,Petrol,2617
+Tata Motors,Indica Vista,Aura ABS Safire 90 BS-IV,1368,5,Petrol,4846
+Audi,Q3,2.0 TDI FWD,1968,5,Diesel,3845
+Hyundai,I10,Magna (O) With Sunroof,1086,5,Petrol,433
+Jeep,Compass-Petrol,Limited (O) 1.4 Petrol AT,1368,5,Petrol,3960
+Maruti Suzuki,Celerio,ZXI AMT,998,5,Petrol,5471
+Hyundai,Sonata,Embera 2.0 CRDi,1991,5,Diesel,399
+Mahindra & Mahindra,TUV 300,T10 AMT Dual Tone,1493,7,Diesel,4013
+Mercedes-Benz,S-Class,500 L,5461,5,Petrol,734
+Maruti Suzuki,Celerio,ZDI Option,793,5,Diesel,2748
+Land Rover,Discovery Sport,TD4 HSE 7 Seater,2179,7,Diesel,3195
+Tata Motors,Indigo Cs,EVX,1396,5,Diesel,1444
+Volkswagen,Touareg,3.0 V6 TDI,2967,5,Diesel,1170
+Mahindra & Mahindra,Bolero,DI AC 2WD 8Str,2523,8,Diesel,2340
+Tata Motors,Indigo Cs,GLS,1193,5,Petrol,944
+Honda,BR-V,1.5 E MT (I-VTEC),1497,7,Petrol,3977
+Hyundai,Alcazar - Diesel,Signature (O) AT - 6 Str,1493,6,Diesel,5702
+Maruti Suzuki,Ciaz,ZXI PLUS AT,1373,5,Petrol,5185
+Nissan,Sunny,XE D,1461,5,Diesel,4823
+Renault,KWID,1.0 RXL,999,5,Petrol,3829
+Skoda,Fabia,Elegance 1.6 MPI,1598,5,Petrol,1280
+Hyundai,Accent,GVS,1495,5,Petrol,348
+Mahindra & Mahindra,KUV 100,K4+ 6 STR,1197,6,Petrol,3400
+Maruti Suzuki,Alto,800 - Lxi CNG,796,5,CNG (Inbuilt),1695
+Toyota,Camry,W3 (Mt),2362,5,Petrol,1154
+Mahindra & Mahindra,KUV 100,K4 6 STR,1197,6,Petrol,3398
+Mercedes-Benz,S-Class,350 D,2987,5,Diesel,4420
+Jeep,Compass-Diesel,2.0 S (O1) D MT,1956,5,Diesel,5618
+Hyundai,Accent,Executive LPG,1495,5,LPG (Inbuilt),350
+Tata Motors,Altroz - Diesel,XZ +,1497,5,Diesel,5751
+Mahindra & Mahindra,KUV 100,NXT K8 5 STR,1198,5,Petrol,5166
+Hyundai,Grand I10,Asta 1.1 CRDi (O),1120,5,Diesel,1949
+MAHINDRA,THAR,DI 2WD,2523,7,PETROL,26027
+MAHINDRA.,KUV 100,K2 Plus 6 Str NXT Diesel,1198,6,PETROL,37349
+FIAT,500,SPORT,1248,4,DIESEL,12464
+BMW,5 SERIES,528i,2793,5,PETROL,32572
+PORSCHE,CAYENNE,DIESEL,2967,5,PETROL,25608
+HINDUSTAN MOTORS,AMBASSADOR,1800 ISZ MPFI PW CL,1817,5,PETROL,12581
+MERCEDES-BENZ.,GLA,200 SPORT,1991,5,PETROL,28763
+FIAT,GRANDE PUNTO,1.3 ACTIVE,1248,5,DIESEL,12467
+HYUNDAI,CRETA,1.6 SX (O) Petrol,1591,5,DIESEL,38734
+AUDI,A4,40 TFSI TECHNOLOGY,1984,5,DIESEL,44458
+MARUTI,CELERIO,VXI (O),998,5,PETROL,36032
+TOYOTA KIRLOSKAR,LEXUS LX,450 D,4461,5,PETROL,36172
+HYUNDAI,CRETA,1.6 SX (O) Executive CRDi,1582,5,PETROL,40714
+TATA MOTORS LTD,NEXON,KRAZ PLUS DIESEL,1497,5,DIESEL,39794
+GENERAL MOTORS,AVEO,1.6 LT,1598,5,DIESEL,12533
+MAHINDRA.,XUV 700,AX 7 AT AWD DIESEL 7 STR,2184,7,PETROL,45791
+MARUTI,SWIFT DZIRE,1.2 LXi BS IV,1197,5,DIESEL,18910
+HYUNDAI,XCENT,VTVT PRIME T PLUS,1197,5,PETROL,42374
+HYUNDAI,VENUE,1.2 E PETROL,1197,5,PETROL,41292
+FIAT,GRANDE PUNTO,1.4 EMOTION PACK,1368,5,DIESEL,12473
+MERCEDES-BENZ.,C-CLASS,C 220 CDI GRAND EDITION,2143,5,DIESEL,27663
+LAND ROVER,DISCOVERY SPORT,2.0L SE DIESEL 7 SEATER,1999,7,PETROL,40564
+GENERAL MOTORS,TAVERA,NEO 3 LT 9 Seats,2499,9,PETROL,33286
+RENAULT,KWID,1.0 RXT OPT,999,5,DIESEL,32308
+MAHINDRA,E20,PLUS P4,999,4,DIESEL,35726
+TATA MOTORS LTD,HEXA,XT 4X4,2179,7,PETROL,35735
+FIAT,GRANDE PUNTO,1.2 EMOTION,1172,5,CNG,19894
+LAND ROVER,RANGE ROVER,3.0L FIFTY LWB PETROL,2996,5,PETROL,45247
+MAHINDRA,MARAZZO,M4 8STR,1497,8,PETROL,39349
+SKODA,YETI,ACTIVE 2.0 TDI CR 4X2,1968,5,DIESEL,24226
+GENERAL MOTORS,CAPTIVA,2.0 LT 5 STR,1991,5,PETROL,25286
+TOYOTA KIRLOSKAR,COROLLA,1.8 LE H7,1794,5,PETROL,18923
+BMW,X5,xDRIVE 30D,2993,5,PETROL,22067
+MAHINDRA,BOLERO,DIZ,2523,7,PETROL,12709
+FORD,FIGO,1.5 AMBIENTE DIESEL,1498,5,DIESEL,30583
+NISSAN,SUNNY,XV,1498,5,DIESEL,22554
+TATA MOTORS LTD,HARRIER,XZA PLUS,1956,5,PETROL,42891
+TATA MOTORS LTD,HARRIER,XM,1956,5,PETROL,40488
+HONDA,CITY,SV MT DIESEL,1498,5,PETROL,27464
+FORD,ECOSPORT,TITANIUM 1.5 TCDi,1498,5,DIESEL,26387
+HONDA,CIVIC,ZX CVT PETROL,1799,5,PETROL,40863
+HYUNDAI,FLUIDIC VERNA,1.6 CRDI EX AT,1582,5,PETROL,27281
+TATA MOTORS LTD,SAFARI,XT MT,1956,7,DIESEL,44708
+HINDUSTAN MOTORS,AMBASSADOR,DIESEL,1995,6,DIESEL,20404
+HYUNDAI,CRETA,SPORTS EDITION (P),1591,5,PETROL,41744
+HYUNDAI,CRETA,1.6 E Plus Petrol,1591,5,PETROL,32237
+MERCEDES-BENZ.,R-CLASS,R 350 CDI 4MATIC,2987,7,PETROL,27803
+TATA MOTORS LTD,SUMO,VICTA EX,1948,10,DIESEL,13026
+HYUNDAI,NEO FLUIDIC ELANTRA,CRDi 1.6 S,1582,5,PETROL,24509
+TOYOTA KIRLOSKAR,ETIOS CROSS,1.4 VD,1364,5,PETROL,28003
+MAHINDRA,THAR,CRDE 4WD AC,2498,6,CNG,30477
+AUDI,AUDI Q3,35 TDI QUATTRO PREMIUM PLUS,1968,5,DIESEL,29692
+TOYOTA KIRLOSKAR,PLATINUM ETIOS,VX,1496,5,DIESEL,36475
+MAHINDRA,VERITO,1.5 D4 BS IV,1461,5,DIESEL,21901
+FIAT,LINEA,EMOTION PK 1.3 MJD,1248,5,PETROL,12482
+HYUNDAI,XCENT,CRDI E PLUS,1186,5,DIESEL,36903
+NISSAN,KICKS,XV 1.5 D,1461,5,DIESEL,40459
+HYUNDAI,VERNA,1.5 SX CRDI,1493,5,PETROL,43212
+GENERAL MOTORS,ENJOY,1.4 LT 7 STR,1399,7,DIESEL,26194
+TOYOTA KIRLOSKAR,CAMRY,V4,2362,5,DIESEL,17518
+HYUNDAI,SANTRO XING,XK(NON-AC) ERLX - EURO III,1086,5,DIESEL,12674
+TATA MOTORS LTD,NEXON,XT Petrol,1198,5,PETROL,37182
+BMW,3-SERIES,325I,2497,5,PETROL,20280
+OPEL,VECTRA,2.2 COMFORT,2198,5,PETROL,12875
+TATA MOTORS LTD,ALTROZ,XZ URBAN DIESEL,1497,5,PETROL,42691
+MAHINDRA.,XUV 500,G AT PETROL,2179,7,CNG,41573
+FIAT,SIENA,1.6 ELX PS,1596,5,CNG,17421
+TOYOTA KIRLOSKAR,FORTUNER,SPORTIVO 4 X 2 MT,2982,7,PETROL,27147
+HYUNDAI,SANTRO XING,GLS (CNG),1086,5,DIESEL,12669
+GENERAL MOTORS,AVEO U-VA,1.2 LT OP WITH AIRBAG,1150,5,PETROL,12542
+VOLKSWAGEN,VENTO,TSI,1197,5,PETROL,27149
+HYUNDAI,GRAND I10,SPORTZ U2 1.2 CRDI DUAL TONE,1186,5,PETROL,42241
+OPEL,CORSA,1.6 GLS,1589,5,PETROL,12872
+TOYOTA KIRLOSKAR,INNOVA CRYSTA,TOURING SPORT 2.7 VX MT 7 STR,2694,7,PETROL,36825
+ICML,EXTREME,VD CRDFi BS III 7 SEATER,1994,7,PETROL,29434
+LAND ROVER,RANGE ROVER,EVOQUE 2.0 SE DIESEL,1999,5,PETROL,36987
+MARUTI,SWIFT,LXI,1298,5,DIESEL,12793
+FORD,ENDEAVOUR,2.0L 4X4 TITANIUM PLUS AT,1996,7,PETROL,42975
+SKODA,RAPID,1.5 TDI CR STYLE PLUS,1498,5,DIESEL,30707
+RENAULT,LODGY,85 PS RXL Stepway 8 STR,1461,8,PETROL,36350
+HYUNDAI,SANTRO XING,XL,1086,5,DIESEL,27337
+BAJAJ AUTO,QUTE,NULL,216,4,PETROL,44475
+MARUTI,CIAZ,VXI,1373,5,DIESEL,28714
+TATA MOTORS LTD,TIGOR,REVOTRON XZ(O),1199,5,PETROL,36226
+MERCEDES-BENZ.,GLA,200 CDI STYLE,2143,5,LPG,28764
+MAHINDRA,SUPRO,LX 8STR,909,8,DIESEL,30727
+NISSAN,MAGNITE,1.0 XV PREMIUM MT,999,5,PETROL,44317
+HYUNDAI,NEW SANTRO,MAGNA,1086,5,PETROL,39760
+MAHINDRA,SCORPIO,DLX,2609,7,PETROL,19513
+TOYOTA KIRLOSKAR,INNOVA,2.0 GX - 8 SEATER,1998,8,PETROL,13048
+JEEP,COMPASS,LONGITUDE PLUS 2.0 DIESEL 4X4 AT,1956,5,CNG,43686
+OPEL,CORSA,1.4 GLS,1389,5,PETROL,25198
+MAHINDRA.,XUV 500,W5,2179,7,PETROL,38522
+HYUNDAI,AURA,1.2 SX PETROL,1197,5,DIESEL,42648
+TOYOTA KIRLOSKAR,FORTUNER,3.0L 4X2 AT,2982,7,PETROL,29863
+MAHINDRA.,XUV 500,W4,2179,7,PETROL,27239
+HONDA,AMAZE,VX PETROL,1198,5,DIESEL,26109
+VOLKSWAGEN,POLO,1.2L TRENDLINE (P),1198,5,PETROL,18622
+VOLKSWAGEN,JETTA,2.0 L CR HIGHLINE TDI MT,1968,5,PETROL,36749
+MARUTI,ERTIGA,SMART HYBRID LXI,1462,7,DIESEL,40253
+TOYOTA KIRLOSKAR,COROLLA,HE 1.8J,1794,5,DIESEL,13040
+HYUNDAI,GRAND I10 NIOS,ERA 1.2 KAPPA VTVT,1197,5,DIESEL,41780
+MARUTI,GYPSY,KING HT - BS III,1298,8,PETROL,12778
+TATA MOTORS LTD,INDIGO ECS,GLS,1193,5,PETROL,33172
+HONDA,CITY,E MT DIESEL,1498,5,PETROL,27472
+FORD,FIGO,1.2 TITANIUM PETROL,1196,5,DIESEL,30586
+MAHINDRA.,XUV 500,1.9L W4,1997,7,PETROL,31299
+OPEL,ASTRA,1.6,1598,5,DIESEL,12870
+HYUNDAI,CRETA,1.6 SX (O) Executive Petrol,1591,5,PETROL,40713
+HYUNDAI,ALCAZAR,1.5 PLATINUM (O) AT 7 STR (D),1493,7,DIESEL,45501
+HYUNDAI,NEO FLUIDIC ELANTRA,1.6 SX (O) AT,1582,5,PETROL,32316
+RENAULT,PULSE,RXE PETROL,1198,5,PETROL,27210
+KIA,SELTOS,1.5 HTE (P),1497,5,PETROL,41818
+MARUTI,DZIRE,ZXI PLUS AMT,1197,5,PETROL,36548
+HONDA,ACCORD,2.4 AT,2354,5,PETROL,22453
+VOLKSWAGEN,VENTO,COMFORTLINE DIESEL,1598,5,DIESEL,23172
+HYUNDAI,ALCAZAR,2.0 PLATINIUM (O) AT 7 STR (P),1999,7,DIESEL,46174
+HYUNDAI,FLUIDIC VERNA,4S 1.6 VTVT S (O) AT,1591,5,CNG,29539
+HONDA,NEW JAZZ,VX iDTEC,1498,5,PETROL,30015
+HYUNDAI,I20,Elite i20 Asta 1.2,1197,5,PETROL,28448
+HYUNDAI,I20,Elite i20 Magna 1.2,1197,5,PETROL,28446
+HYUNDAI,I20,Active 1.2 SX Dual Tone,1197,5,PETROL,38870
+MERCEDES-BENZ.,GLS,350 D 4MATIC,2987,7,PETROL,31774
+BMW,X3,xDRIVE 30i M SPORT,1998,5,PETROL,46462
+LAND ROVER,FREELANDER 2,S,2179,5,DIESEL,18039
+TOYOTA KIRLOSKAR,INNOVA,2.5 V - 7 SEATER,2494,7,PETROL,13063
+TOYOTA KIRLOSKAR,INNOVA CRYSTA,2.4 GX MT 7 STR,2393,7,PETROL,31519
+VOLKSWAGEN,POLO,GT TSI,1197,5,DIESEL,26268
+VOLKSWAGEN,VENTO,1.5 HIGHLINE DIESEL AT,1498,5,PETROL,28981
+HYUNDAI,SANTA FE,2 WD,2199,7,PETROL,20827
+FORD,FIESTA,STYLE DIESEL,1498,5,PETROL,22425
+ICML,EXTREME,SD CRDFi BS III 9 SEATER,1994,9,PETROL,29437
+HONDA,CITY,E MT PETROL,1497,5,DIESEL,27475
+TOYOTA KIRLOSKAR,CAMRY,W4 (AT),2362,5,DIESEL,17091
+LAND ROVER,RANGE ROVER SPORT,3.0 TDV6 SE 5 STR,2993,5,PETROL,27769
+SKODA,RAPID,ONYX 1.5 TDI AT,1498,5,DIESEL,39473
+TOYOTA KIRLOSKAR,ETIOS,TRD SPORTIVO PETROL,1496,5,PETROL,25777
+NISSAN,SUNNY,MC XV PREMIUM(SAFETY),1461,5,PETROL,31010
+TATA MOTORS LTD,SUMO,VICTA DI LX 9STR,2956,9,DIESEL,19034
+SKODA,RAPID,AMBITION 1.6 TDI CR MT,1598,5,DIESEL,22726
+LAND ROVER,RANGE ROVER,EVOQUE 2.0 HSE DIESEL,1999,5,PETROL,36970
+HYUNDAI,ALCAZAR,1.5 PRESTIGE (O) AT 7 STR (D),1493,7,DIESEL,45200
+TATA MOTORS LTD,TIGOR,XZ CNG,1199,5,DIESEL,46395
+BMW,5-SERIES,525D SEDAN,2497,5,DIESEL,16933
+MARUTI,WAGON R,1.2 VXI AGS,1197,5,DIESEL,40504
+AUDI,AUDI A3 CABRIOLET,1.4 TFSI,1395,4,DIESEL,37206
+TATA MOTORS LTD,SAFARI,4X2 VX DICOR 2.2 VTT,2179,7,DIESEL,13005
+AUDI,AUDI S5,SPORTBACK 3.0 TFSI QUATTRO,2995,5,DIESEL,31126
+ICML,EXTREME,LD PS AC DI BS III 9 SEATER,1994,9,PETROL,29441
+VOLKSWAGEN,VENTO,1.2 TSI HIGHLINE AT,1197,5,PETROL,30396
+HONDA,CIVIC,1.8 E MT,1799,5,DIESEL,12617
+NISSAN,SUNNY,XE,1498,5,DIESEL,22556
+TOYOTA KIRLOSKAR,INNOVA CRYSTA,2.8 GX AT 7 STR,2755,7,DIESEL,31514
+RENAULT,LODGY,85 PS RXE,1461,8,DIESEL,29683
+BMW,Z4,sDRIVE 20i,1998,2,PETROL,41126
+TATA MOTORS LTD,INDICA V2 TURBO,TURBO DLX - ABS and AIRBAGS,1405,5,DIESEL,12939
+HYUNDAI,FLUIDIC VERNA,1.6 VTVT SX (O),1591,5,DIESEL,22032
+HYUNDAI,GRAND I10,MAGNA 1.1 CRDi,1120,5,DIESEL,26677
+NISSAN,TEANA,230JM,2349,5,DIESEL,12866
+NISSAN,PATROL,RHD,5600,7,DIESEL,45992
+TATA MOTORS LTD,PUNCH,ADVENTURE MT,1199,5,DIESEL,45947
+AUDI,AUDI A8,3.0 TDI QUATTRO,2967,5,DIESEL,12418
+HYUNDAI,I10,MAGNA (O) WITH SUNROOF,1086,5,DIESEL,17000
+FIAT,PALIO,ADVENTURE,1596,5,DIESEL,33014
+TATA MOTORS LTD,SUMO,DX 9STR,1948,9,DIESEL,22013
+HYUNDAI,GRAND I10,ASTA 1.1 CRDi (O),1120,5,DIESEL,28929
+RENAULT,LODGY,RXL 110PS STEPWAY 8 STR,1461,8,DIESEL,36036
+MAHINDRA,E VERITO,D4,1461,5,DIESEL,31837
+GENERAL MOTORS,TAVERA,NEO 3 LS 7 Seats,2499,7,DIESEL,33290
+TATA MOTORS LTD,SUMO,VICTA GX TC 7-Seater,1948,7,DIESEL,19028
+SKODA,RAPID,ONYX 1.5 TDI LE,1498,5,DIESEL,39472
+MARUTI,BALENO HATCHBACK,Zeta AT 1.2,1197,5,DIESEL,31478
+GENERAL MOTORS,ENJOY,1.3 TCDI LS 8 STR,1248,8,DIESEL,26189
+MAHINDRA,BOLERO,DX,2523,8,DIESEL,18735
+BMW,M4,COUPE,2979,4,DIESEL,36730
+GENERAL MOTORS,TAVERA,NEO LS - B3 7-SEATER - BS III,2499,7,DIESEL,12572
+JAGUAR,XE,PRESTIGE,1997,5,DIESEL,32284
+PREMIER.,PADMINI,STD,1089,5,DIESEL,12896
+BMW,X3,xDRIVE 20D EXPEDITION,1995,5,DIESEL,31347
+TOYOTA KIRLOSKAR,INNOVA CRYSTA,TOURING SPORT 2.4 VX MT 7 STR,2393,7,DIESEL,36826
+TATA MOTORS LTD,SUMO GOLD,CX 9STR,2956,9,DIESEL,22711
+TATA MOTORS LTD,INDICA EV2 XETA,GLE LPG,1193,5,DIESEL,25690
+MARUTI,ALTO 800,VXI (O),796,5,DIESEL,32050
+REVA,REVAI,CLASSE,650,4,PETROL,12898
+HYUNDAI,I10,SPORTZ 1.2 AT KAPPA2,1197,5,PETROL,22892
+TOYOTA KIRLOSKAR,INNOVA,2.5 E,2494,8,DIESEL,13051
+AUDI,AUDI A6,35 TDI PREMIUM,1968,5,DIESEL,30086
+BMW,3-SERIES,320D GT LUXURY LINE,1995,5,DIESEL,28012
+FORD,FIGO,1.4 DURATORQ DIESEL TITANIUM,1399,5,DIESEL,18934
+FIAT,GRANDE PUNTO,1.3 EMOTION,1248,5,DIESEL,12469
+LAND ROVER,DEFENDER,2.0L 110 HSE PETROL,1997,7,DIESEL,42995
+SKODA,KUSHAQ,1.0 ACTIVE TSI MT,999,5,DIESEL,45214
+VOLVO,V40 CROSS COUNTRY,T4 MOMENTUM,1596,5,DIESEL,30455
+MARUTI,SWIFT,ZXI PLUS AGS,1197,5,DIESEL,39299
+HYUNDAI,VENUE,1.0 SX (O) TURBO IMT DT PETROL,998,5,DIESEL,45882
+MERCEDES-BENZ.,GLC,220 D PROGRESSIVE,2143,5,DIESEL,40923
+MARUTI,S-CROSS,1.5 DELTA,1462,5,DIESEL,43554
+SKODA,OCTAVIA,ELEGANCE 2.0 TDI CR AT,1968,5,DIESEL,27085
+AUDI,AUDI Q3,2.0 TDI QUATTRO,1968,5,DIESEL,24268
+SKODA,RAPID,1.5 TDI CR ELEGANCE PLUS,1498,5,DIESEL,30463
